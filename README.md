@@ -14,7 +14,7 @@ Concepts become small programs, plots, generated audio, measurements, deliberate
 
 ## Status
 
-Parts I–VI are complete research-informed executable drafts. Part VI adds eighteen digital-audio chapters, sampling/PCM/WAV utilities, thirteen figures, five listening comparisons, debugging labs, and an educational WAV inspector.
+Parts I–VII are complete research-informed executable drafts. Part VII adds 29 DSP chapters, dependency-free processors, a configurable mini rack, listening/visual labs, debugging lessons, and automated signal tests.
 
 ## Quick start
 
@@ -28,6 +28,7 @@ python -m tech_music.waveform
 python -m tech_music.music
 python examples/part_05_synth.py
 python examples/part_06_digital_audio.py
+python examples/part_07_dsp.py
 python -m tech_music.digital_audio assets/part-06/tone-stereo.wav
 pytest
 python scripts/check_markdown_links.py
