@@ -1,0 +1,15 @@
+{
+  "sample_rate": 48000,
+  "buffer_frames": 256,
+  "master_muted": false,
+  "nodes": [
+    {"id": "performer", "role": "human"}, {"id": "controller", "role": "controller"},
+    {"id": "yoshimi", "role": "synth", "sample_rate": 48000}, {"id": "ardour", "role": "daw", "sample_rate": 48000},
+    {"id": "interface", "role": "interface", "sample_rate": 48000}, {"id": "headphones", "role": "headphones"}
+  ],
+  "edges": [
+    {"from": "performer", "to": "controller", "type": "control"}, {"from": "controller", "to": "yoshimi", "type": "midi"},
+    {"from": "yoshimi", "to": "ardour", "type": "audio"}, {"from": "ardour", "to": "interface", "type": "audio"},
+    {"from": "interface", "to": "headphones", "type": "audio"}
+  ]
+}
