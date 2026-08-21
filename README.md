@@ -14,7 +14,7 @@ Concepts become small programs, plots, generated audio, measurements, deliberate
 
 ## Status
 
-This foundation release provides the complete twelve-part chapter map, editorial/research contracts, and one fully executable model chapter. Other chapter files are honest planning stubs—not finished chapters. Ardour will be the DAW case study and Yoshimi the synthesizer case study, always after general principles.
+Part I is now a complete research-informed draft with six listening-centered chapters, reusable listening-lab conventions, and an executable personal-observation summary. The repository also provides the complete twelve-part chapter map and one fully executable model chapter; later chapter files remain honest planning stubs. Ardour will be the DAW case study and Yoshimi the synthesizer case study, always after general principles.
 
 ## Quick start
 

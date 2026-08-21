@@ -74,7 +74,7 @@ Default output begins approximately:
 
 ```text
 Generated 44100 samples; first 8: [0.       0.031324 0.062525 0.093481 0.124069 0.15417  0.183665 0.212438]
-Estimated frequency: 440.00 Hz
+Estimated frequency: approximately 440 Hz
 ```
 
 Small numerical differences in formatting may occur across library versions. Check length, minimum/maximum, and zero crossings instead of trusting the filename. The included estimator measures spacing between positive-going zero crossings; it is useful for this clean lesson signal, not a general-purpose pitch detector.
