@@ -1,0 +1,16 @@
+{
+  "tempo": 120,
+  "sources": {
+    "bass_events": {"kind": "midi-events", "frequency": 110, "amplitude": 0.18},
+    "generated_texture": {"kind": "generated-audio", "frequency": 330, "amplitude": 0.12}
+  },
+  "tracks": [
+    {"id": "bass", "name": "MIDI Bass", "gain": 0.7, "regions": [{"id": "bass-a", "source": "bass_events", "start": 0, "duration": 8}]},
+    {"id": "texture", "name": "Audio Texture", "gain": 0.6, "regions": [{"id": "texture-a", "source": "generated_texture", "start": 4, "duration": 4}]}
+  ],
+  "buses": [{"id": "reverb", "processors": [{"id": "shared-delay", "type": "delay", "parameters": {"mix": 0.18}}]}],
+  "processors": [{"id": "master-gain", "type": "gain", "parameters": {"mix": 1.0}}],
+  "routing": [["bass", "master"], ["bass", "reverb"], ["texture", "master"], ["texture", "reverb"], ["reverb", "master"], ["master", "output"]],
+  "automation": [{"target": "texture.gain", "points": [{"time": 0, "value": 0.2}, {"time": 4, "value": 0.4}, {"time": 8, "value": 0.9}]}],
+  "markers": [{"name": "A", "time": 0}, {"name": "B", "time": 4}]
+}
