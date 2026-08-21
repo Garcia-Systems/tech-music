@@ -14,7 +14,7 @@ Concepts become small programs, plots, generated audio, measurements, deliberate
 
 ## Status
 
-Parts I–VII are complete research-informed executable drafts. Part VII adds 29 DSP chapters, dependency-free processors, a configurable mini rack, listening/visual labs, debugging lessons, and automated signal tests.
+Parts I–XII are research-informed executable drafts. Part XII adds Chapters 244–307, a dependency-free adaptive generator, human-in-the-loop controls, a capstone, debugging lab, and invariant-focused tests. This does not declare the whole textbook publication-ready; a whole-book editorial and release audit remains.
 
 ## Quick start
 
@@ -29,6 +29,7 @@ python -m tech_music.music
 python examples/part_05_synth.py
 python examples/part_06_digital_audio.py
 python examples/part_07_dsp.py
+python examples/part_12_adaptive.py --mode focus --seed 12 --duration 8
 python -m tech_music.digital_audio assets/part-06/tone-stereo.wav
 pytest
 python scripts/check_markdown_links.py
@@ -44,7 +45,8 @@ The example creates `assets/audio/a4-sine.wav` and `assets/waveforms/a4-sine.svg
 - [`labs/`](labs/): reproducible lab guides.
 - [`exercises/`](exercises/) and [`solutions/`](solutions/): student work separated from reasoned answers.
 - [`tests/`](tests/): executable claims and regression checks.
-- [`assets/`](assets/): generated visual/audio destinations (not committed binaries).
+- `generated/`: ignored audio, plots, reports, MIDI, datasets, and diagnostics produced by examples.
+- [`assets/`](assets/): legacy part-specific generated destinations and versioned teaching diagrams.
 - [`docs/`](docs/): contributor contracts, roadmap, and research policy.
 - [`references/`](references/bibliography.md): inspected sources and source notes.
 
