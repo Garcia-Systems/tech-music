@@ -23,3 +23,14 @@ def test_wav_metadata(tmp_path):
 def test_svg_is_created(tmp_path):
     path = tmp_path / "tone.svg"; plot_waveform(path, sine_wave(duration=.02), 44_100)
     assert path.read_text().startswith('<svg xmlns="http://www.w3.org/2000/svg"')
+
+def test_wav_clips_out_of_range_input(tmp_path):
+    path = tmp_path / "clipped.wav"
+    write_wav(path, [-2.0, -1.0, 0.0, 1.0, 2.0], 8_000)
+    with wave.open(str(path), "rb") as audio:
+        import struct
+        assert struct.unpack("<5h", audio.readframes(5)) == (-32767, -32767, 0, 32767, 32767)
+
+def test_amplitude_one_remains_representable():
+    samples = sine_wave(amplitude=1.0)
+    assert min(samples) >= -1.0 and max(samples) <= 1.0
