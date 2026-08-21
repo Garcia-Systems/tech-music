@@ -1,0 +1,3 @@
+# Convenience install; pyproject.toml is the authoritative dependency declaration.
+-e .
+pytest>=7,<9
