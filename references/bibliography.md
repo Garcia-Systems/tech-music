@@ -70,3 +70,9 @@ The stable publication details below support Part I. DOI links identify the scho
 <a id="22"></a>22. Pinch, Trevor, and Frank Trocco. *Analog Days: The Invention and Impact of the Moog Synthesizer*. Harvard University Press, 2002.
 
 <a id="23"></a>23. Kazdin, Alan E. *Single-Case Research Designs: Methods for Clinical and Applied Settings*. 2nd ed. Oxford University Press, 2011. (Used only for general principles of repeated observation and cautious inference; the chapter activity is explicitly not a controlled single-case study.)
+
+## Part III sources
+
+<a id="29"></a>29. Roads, Curtis. *The Computer Music Tutorial*. 2nd ed. MIT Press, 2023. <https://mitpress.mit.edu/9780262044912/the-computer-music-tutorial/>. (Established reference for computer-music sound synthesis, sequencing, and digital-audio terminology; publisher record inspected 2026-08-21.)
+
+Part III also uses Butler [19] for electronic-dance rhythm/form, Laitz [24] for tonal terminology, Huron [27] for expectation, and Moore [28] for recorded arrangement. The author's house-music book remains the uninspected placeholder above and is not cited.

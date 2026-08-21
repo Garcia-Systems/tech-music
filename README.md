@@ -14,7 +14,7 @@ Concepts become small programs, plots, generated audio, measurements, deliberate
 
 ## Status
 
-Parts I and II are complete research-informed drafts. Part II adds nine music-fundamentals chapters, reusable timing/pitch/event helpers, listening and debugging labs, and a generated musical-sketch capstone. Later parts remain planning stubs; Part III has not begun. Ardour will be the DAW case study and Yoshimi the synthesizer case study, always after general principles.
+Parts I–III are complete research-informed executable drafts. Part II adds nine music-fundamentals chapters, reusable timing/pitch/event helpers, listening and debugging labs, and a generated musical-sketch capstone. Ardour will be the DAW case study and Yoshimi the synthesizer case study, always after general principles.
 
 ## Quick start
 

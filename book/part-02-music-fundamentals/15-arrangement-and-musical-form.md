@@ -19,7 +19,7 @@ Outro      drums
 A timeline reveals a duration error that listening may locate only approximately. Conversely, listening may reveal a transition that is technically aligned but perceptually abrupt. Use both forms of evidence.
 
 ## Part II destination
-Continue to the [capstone lab](../../labs/03-part-02-capstone.md), where tempo, rhythm, pitch collections, bass, chords, motif, variation, and form become one inspectable sketch. Part III remains future work.
+Continue to the [capstone lab](../../labs/03-part-02-capstone.md), where tempo, rhythm, pitch collections, bass, chords, motif, variation, and form become one inspectable sketch. Part III continues by turning this sketch into a complete track.
 
 ## References
 See the [bibliography](../../references/bibliography.md): Butler [19] on electronic-dance form; Moore [28] on recorded-song arrangement; Huron [27] on expectation.

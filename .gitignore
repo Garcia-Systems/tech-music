@@ -10,3 +10,6 @@ assets/waveforms/*.svg
 assets/part-02/
 !assets/audio/.gitkeep
 !assets/waveforms/.gitkeep
+
+# Reproducible Part III audio (SVG teaching artifacts remain versioned)
+assets/part-03/*.wav
