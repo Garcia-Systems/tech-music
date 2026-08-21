@@ -1,5 +1,46 @@
 # Project bibliography
 
+<a id="part-xii-sources"></a>
+## Part XII — The Future of Tech Music
+
+These stable books and primary papers ground the conceptual survey. Mutable official
+targets were selected for legal/risk claims, but retrieval attempts on 2026-08-21
+failed because the environment proxy returned HTTP 403 and the research service
+returned HTTP 401. Part XII therefore avoids product catalogs and mutable capability
+claims, identifies the legal discussion as non-advice, and requires current
+jurisdiction-specific revalidation before publication. See the
+[inspection note](source-notes/part-12.md).
+
+61. Roads, Curtis. *The Computer Music Tutorial*. MIT Press, 1996. (Computer-music
+representations, synthesis, and algorithmic processes.)
+62. Nierhaus, Gerhard. *Algorithmic Composition: Paradigms of Automated Music
+Generation*. Springer, 2009. <https://doi.org/10.1007/978-3-211-75540-2>.
+63. Müller, Meinard. *Fundamentals of Music Processing*. Springer, 2015.
+<https://doi.org/10.1007/978-3-319-21945-5>. (Audio features and symbolic/audio MIR.)
+64. Bishop, Christopher M. *Pattern Recognition and Machine Learning*. Springer,
+2006. (Supervised learning, evaluation, and probabilistic models.)
+65. Vaswani, Ashish, et al. “Attention Is All You Need.” *NeurIPS 2017*.
+<https://arxiv.org/abs/1706.03762>. (Primary transformer architecture paper.)
+66. Ho, Jonathan, Ajay Jain, and Pieter Abbeel. “Denoising Diffusion Probabilistic
+Models.” *NeurIPS 2020*. <https://arxiv.org/abs/2006.11239>.
+67. Copet, Jade, et al. “Simple and Controllable Music Generation.” *NeurIPS 2023*.
+<https://arxiv.org/abs/2306.05284>. (Research system using audio tokens and
+text/melody conditioning; not cited as a current product.)
+68. Collins, Karen. *Game Sound: An Introduction to the History, Theory, and
+Practice of Video Game Music and Sound Design*. MIT Press, 2008. (Interactive and
+adaptive game audio.)
+69. Amershi, Saleema, et al. “Guidelines for Human-AI Interaction.” *CHI 2019*.
+<https://doi.org/10.1145/3290605.3300233>. (Human control, feedback, and error
+recovery design.)
+70. U.S. Copyright Office. *Copyright and Artificial Intelligence, Part 2:
+Copyrightability*. January 2025. <https://www.copyright.gov/ai/>. Official mutable
+legal-policy target; retrieval attempted 2026-08-21. It does not settle every
+jurisdiction, training-data question, or future court interpretation.
+71. National Institute of Standards and Technology. *Artificial Intelligence Risk
+Management Framework (AI RMF 1.0)*, NIST AI 100-1, 2023.
+<https://doi.org/10.6028/NIST.AI.100-1>. Official risk-management framework, not a
+music-quality standard.
+
 Entries below were inspected for the model chapter unless explicitly marked as a source-plan item.
 
 <a id="part-xi-sources"></a>
