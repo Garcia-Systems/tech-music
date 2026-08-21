@@ -17,6 +17,20 @@ Entries below were inspected for the model chapter unless explicitly marked as a
 - MIDI Association specifications/resources: determine access and licensing before Part VIII.
 - Author's existing house-music book: **placeholder only**; author, title, edition, and contents have not been provided. Do not cite until supplied and inspected.
 
+## Part II sources
+
+The following stable books and standards support the deliberately limited terminology and technical models in Part II. Publication records and the linked official catalog/publisher pages were checked on 2026-08-21; network search was unavailable during the final audit, so Part II avoids claims that depend on mutable web summaries.
+
+<a id="24"></a>24. Laitz, Steven G. *The Complete Musician: An Integrated Approach to Tonal Theory, Analysis, and Listening*. 4th ed. Oxford University Press, 2016. (Meter, scales, intervals, triads, motives, phrases, and tonal terminology.)
+
+<a id="25"></a>25. London, Justin. *Hearing in Time: Psychological Aspects of Musical Meter*. 2nd ed. Oxford University Press, 2012. <https://global.oup.com/academic/product/hearing-in-time-9780199744374>. (Pulse, beat, meter, timing, and perception.)
+
+<a id="26"></a>26. Sethares, William A. *Tuning, Timbre, Spectrum, Scale*. 2nd ed. Springer, 2005. <https://doi.org/10.1007/b138848>. (Frequency, tuning systems, timbre, consonance, and dissonance.)
+
+<a id="27"></a>27. Huron, David. *Sweet Anticipation: Music and the Psychology of Expectation*. MIT Press, 2006. <https://mitpress.mit.edu/9780262582780/sweet-anticipation/>. (Expectation, repetition, melodic and harmonic listening.)
+
+<a id="28"></a>28. Moore, Allan F. *Song Means: Analysing and Interpreting Recorded Popular Song*. Ashgate, 2012. (Layers, register, texture, and arrangement in recorded popular music.)
+
 ## Part I sources
 
 The stable publication details below support Part I. DOI links identify the scholarly version of record; online access was attempted on 2026-08-21 but the environment's proxy returned HTTP 403. The accompanying [inspection note](source-notes/part-01.md) distinguishes source-level inspection from bibliographic verification.

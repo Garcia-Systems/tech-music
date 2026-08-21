@@ -7,5 +7,6 @@ build/
 dist/
 assets/audio/*.wav
 assets/waveforms/*.svg
+assets/part-02/
 !assets/audio/.gitkeep
 !assets/waveforms/.gitkeep
