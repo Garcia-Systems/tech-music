@@ -1,0 +1,11 @@
+{
+  "tempo": 120,
+  "sources": {"bass_events": {"kind": "midi-events", "frequency": 110, "amplitude": 0.9}},
+  "tracks": [
+    {"id": "bass", "name": "Bass", "gain": 1.0, "regions": [{"id": "bass-a", "source": "missing_audio", "start": 0, "duration": 8}]},
+    {"id": "orphan", "name": "Orphan", "gain": 1.0, "regions": [{"id": "orphan-a", "source": "bass_events", "start": 0, "duration": 8}]}
+  ],
+  "buses": [{"id": "reverb", "processors": [{"id": "bad-wet", "type": "delay", "parameters": {"mix": 1.4}}]}],
+  "routing": [["bass", "master"], ["master", "output"]],
+  "automation": [{"target": "bass.gain", "points": [{"time": 0, "value": 1}, {"time": 12, "value": 1.2}]}]
+}

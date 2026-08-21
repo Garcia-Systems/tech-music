@@ -76,3 +76,13 @@ The stable publication details below support Part I. DOI links identify the scho
 <a id="29"></a>29. Roads, Curtis. *The Computer Music Tutorial*. 2nd ed. MIT Press, 2023. <https://mitpress.mit.edu/9780262044912/the-computer-music-tutorial/>. (Established reference for computer-music sound synthesis, sequencing, and digital-audio terminology; publisher record inspected 2026-08-21.)
 
 Part III also uses Butler [19] for electronic-dance rhythm/form, Laitz [24] for tonal terminology, Huron [27] for expectation, and Moore [28] for recorded arrangement. The author's house-music book remains the uninspected placeholder above and is not cited.
+
+## Part IV sources
+
+<a id="30"></a>30. Rumsey, Francis, and Tim McCormick. *Sound and Recording: Applications and Theory*. 7th ed. Focal Press, 2014. (Established text for recording systems, routing, mixing, monitoring, and digital production terminology.)
+
+<a id="31"></a>31. Steinberg Media Technologies GmbH. “VST 3 Developer Portal.” <https://steinbergmedia.github.io/vst3_dev_portal/>. Access attempted 2026-08-21; environment proxy returned HTTP 403. (Official documentation target for host/plugin interfaces, parameters, processing, and state; no API-level claim in Part IV depends on uninspected detail.)
+
+<a id="32"></a>32. Ardour Project. “Ardour — The Digital Audio Workstation” and *The Ardour Manual*. <https://ardour.org/>; <https://manual.ardour.org/>. Access attempted 2026-08-21; environment proxy returned HTTP 403. (Official targets for sessions, tracks, regions, routing, processors, automation, mixing, and export. Version-dependent UI claims are withheld pending inspection; see source note.)
+
+<a id="33"></a>33. Bray, Tim, ed. “The JavaScript Object Notation (JSON) Data Interchange Format.” RFC 8259. IETF, December 2017. <https://www.rfc-editor.org/rfc/rfc8259>. (Stable specification for the session example's serialization syntax.)

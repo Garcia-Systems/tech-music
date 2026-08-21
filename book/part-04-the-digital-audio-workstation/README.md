@@ -1,12 +1,28 @@
-# The Digital Audio Workstation
+# Part IV — The Digital Audio Workstation
 
-> Status: outline. Chapters are intentionally scoped for future research and development.
+Parts II–III represented music as data and built an arrangement. Part IV asks how a DAW organizes that material into a practical, persistent signal system. Read in order: **timeline → tracks → regions → MIDI → audio → routing → plugins → automation → mixing → session state → export**.
 
 ## Chapters
 
-1. [The Daw As Workspace](01-the-daw-as-workspace.md)
-2. [Timelines Tracks Audio And Midi](02-timelines-tracks-audio-and-midi.md)
-3. [Routing Buses And Sends](03-routing-buses-and-sends.md)
-4. [Plugins And Automation](04-plugins-and-automation.md)
-5. [Mixing As Signal Flow](05-mixing-as-signal-flow.md)
-6. [Ardour Case Study](06-ardour-case-study.md)
+26. [What Is a Digital Audio Workstation?](26-what-is-a-digital-audio-workstation.md)
+27. [The DAW as an IDE for Music](27-the-daw-as-an-ide-for-music.md)
+28. [Timeline, Tracks, and Regions](28-timeline-tracks-and-regions.md)
+29. [MIDI Tracks](29-midi-tracks.md)
+30. [Audio Tracks](30-audio-tracks.md)
+31. [Signal Routing](31-signal-routing.md)
+32. [Buses, Sends, and Returns](32-buses-sends-and-returns.md)
+33. [Plugins and Effects](33-plugins-and-effects.md)
+34. [Automation](34-automation.md)
+35. [Mixing](35-mixing.md)
+36. [Session State and Project Files](36-session-state-and-project-files.md)
+37. [Exporting and Rendering](37-exporting-and-rendering.md)
+38. [Exploring Ardour](38-exploring-ardour.md)
+39. [Under the Surface of a DAW](39-under-the-surface-of-a-daw.md)
+
+## Labs and executable model
+
+* [DAW Concepts Lab](../../labs/05-daw-concepts.md)
+* [Debugging capstone](../../exercises/part-04-capstone-debugging.md) and separated [solution](../../solutions/part-04-capstone-debugging.md)
+* `python -m tech_music.daw` validates JSON, draws timeline/routing SVGs, and renders WAV.
+
+Part V is intentionally not developed by this part.

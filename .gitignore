@@ -13,3 +13,6 @@ assets/part-02/
 
 # Reproducible Part III audio (SVG teaching artifacts remain versioned)
 assets/part-03/*.wav
+
+# Reproducible Part IV audio (SVG teaching artifacts remain versioned)
+assets/part-04/*.wav
