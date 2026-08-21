@@ -13,7 +13,7 @@ Entries below were inspected for the model chapter unless explicitly marked as a
 ## Source plan (not yet cited as evidence)
 
 - Ardour Manual: inspect versioned official sections when Part IV is drafted.
-- Yoshimi official documentation/project materials: inspect the applicable release when Part V is drafted.
+- Yoshimi official documentation/project materials: direct inspection was attempted for Part V but blocked by the environment proxy; see the Part V source note. No detailed behavior claim relies on these uninspected pages.
 - MIDI Association specifications/resources: determine access and licensing before Part VIII.
 - Author's existing house-music book: **placeholder only**; author, title, edition, and contents have not been provided. Do not cite until supplied and inspected.
 
@@ -86,3 +86,13 @@ Part III also uses Butler [19] for electronic-dance rhythm/form, Laitz [24] for 
 <a id="32"></a>32. Ardour Project. “Ardour — The Digital Audio Workstation” and *The Ardour Manual*. <https://ardour.org/>; <https://manual.ardour.org/>. Access attempted 2026-08-21; environment proxy returned HTTP 403. (Official targets for sessions, tracks, regions, routing, processors, automation, mixing, and export. Version-dependent UI claims are withheld pending inspection; see source note.)
 
 <a id="33"></a>33. Bray, Tim, ed. “The JavaScript Object Notation (JSON) Data Interchange Format.” RFC 8259. IETF, December 2017. <https://www.rfc-editor.org/rfc/rfc8259>. (Stable specification for the session example's serialization syntax.)
+
+## Part V sources
+
+Part V uses Roads [29] for established synthesis terminology; Smith [4] for sinusoids and sampled signals; ISO 16 [5] and Sethares [26] for reference pitch, tuning, and timbre; and RFC 8259 [33] for JSON patch syntax.
+
+<a id="34"></a>34. Smith, Julius O. *Introduction to Digital Filters with Audio Applications*. W3K Publishing, 2007. Free online edition: <https://ccrma.stanford.edu/~jos/filters/>. Access attempted 2026-08-21; environment proxy returned HTTP 403. (Bibliographic target for later DSP derivation; Part V's filter behavior is established by its implementation and tests rather than a page-level web claim.)
+
+<a id="35"></a>35. Ubuntu archive package metadata. “yoshimi 2.3.2-1build3.” Noble/universe package index, inspected locally with `apt-cache show yoshimi`, 2026-08-21. (Version, package description, dependencies, and official homepage only.)
+
+<a id="36"></a>36. Yoshimi Project. “Yoshimi Software Synthesizer” and source repository. <https://yoshimi.github.io/>; <https://github.com/Yoshimi/yoshimi>. Direct access attempted 2026-08-21; environment proxy returned HTTP 403. **Not inspected; not used for feature-level evidence.**
