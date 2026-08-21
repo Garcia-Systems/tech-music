@@ -1,0 +1,8 @@
+{
+  "version": 1,
+  "waveform": "saw",
+  "amplitude": 0.42,
+  "amp_envelope": {"attack": 0.01, "decay": 0.12, "sustain": 0.55, "release": 0.18},
+  "filter": {"type": "lowpass", "cutoff_hz": 1200},
+  "lfo": {"rate_hz": 0.0, "depth": 0.0}
+}

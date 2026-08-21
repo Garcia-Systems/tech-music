@@ -14,7 +14,7 @@ Concepts become small programs, plots, generated audio, measurements, deliberate
 
 ## Status
 
-Parts I–IV are complete research-informed executable drafts. Part II adds nine music-fundamentals chapters, reusable timing/pitch/event helpers, listening and debugging labs, and a generated musical-sketch capstone. Ardour will be the DAW case study and Yoshimi the synthesizer case study, always after general principles.
+Parts I–V are complete research-informed executable drafts. Part V adds eighteen synthesis chapters, reusable oscillator/envelope/filter/patch/polyphony helpers, comparative listening and debugging labs, and an offline synthesizer capstone. Ardour is the DAW case study and Yoshimi the synthesizer case study, always after general principles.
 
 ## Quick start
 
@@ -26,6 +26,7 @@ python -m venv .venv
 python -m pip install -r requirements.txt
 python -m tech_music.waveform
 python -m tech_music.music
+python examples/part_05_synth.py
 pytest
 python scripts/check_markdown_links.py
 ```
