@@ -5,6 +5,7 @@ __pycache__/
 *.egg-info/
 build/
 dist/
+/generated/
 assets/audio/*.wav
 assets/waveforms/*.svg
 assets/part-02/

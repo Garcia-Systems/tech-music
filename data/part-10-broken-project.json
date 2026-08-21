@@ -1,0 +1,324 @@
+{
+  "schema_version": 2,
+  "metadata": {
+    "title": "Boundary Signals",
+    "author": "Tech Music project",
+    "debug_note": "Also compare block renders after incorrectly resetting a delay rack between every block."
+  },
+  "tempo_bpm": 120,
+  "sample_rate_hz": 8000,
+  "duration_beats": 8,
+  "master_gain": 0.55,
+  "patches": {
+    "drum": {
+      "waveform": "sine",
+      "amplitude": 0.55,
+      "cutoff_hz": 3000,
+      "envelope": {
+        "attack": 0.001,
+        "decay": 0.04,
+        "sustain": 0.05,
+        "release": 0.04
+      }
+    },
+    "bass": {
+      "waveform": "square",
+      "amplitude": 0.25,
+      "cutoff_hz": 700,
+      "envelope": {
+        "attack": 0.005,
+        "decay": 0.04,
+        "sustain": 0.65,
+        "release": 0.08
+      }
+    },
+    "pad": {
+      "waveform": "triangle",
+      "amplitude": 0.2,
+      "cutoff_hz": 1800,
+      "envelope": {
+        "attack": 0.08,
+        "decay": 0.12,
+        "sustain": 0.7,
+        "release": 0.2
+      }
+    },
+    "lead": {
+      "waveform": "saw",
+      "amplitude": 0.16,
+      "cutoff_hz": 2400,
+      "envelope": {
+        "attack": 0.01,
+        "decay": 0.05,
+        "sustain": 0.6,
+        "release": 0.1
+      }
+    }
+  },
+  "tracks": [
+    {
+      "id": "drums",
+      "patch": "drum",
+      "gain": 0.8,
+      "events": [
+        {
+          "note": 36,
+          "start_beat": 0,
+          "duration_beats": 0.18,
+          "velocity": 0.9
+        },
+        {
+          "note": 36,
+          "start_beat": 1,
+          "duration_beats": 0.18,
+          "velocity": 0.9
+        },
+        {
+          "note": 36,
+          "start_beat": 2,
+          "duration_beats": 0.18,
+          "velocity": 0.9
+        },
+        {
+          "note": 36,
+          "start_beat": 3,
+          "duration_beats": 0.18,
+          "velocity": 0.9
+        },
+        {
+          "note": 36,
+          "start_beat": 4,
+          "duration_beats": 0.18,
+          "velocity": 0.9
+        },
+        {
+          "note": 36,
+          "start_beat": 5,
+          "duration_beats": 0.18,
+          "velocity": 0.9
+        },
+        {
+          "note": 36,
+          "start_beat": 6,
+          "duration_beats": 0.18,
+          "velocity": 0.9
+        },
+        {
+          "note": 36,
+          "start_beat": 7,
+          "duration_beats": 0.18,
+          "velocity": 0.9
+        }
+      ],
+      "processors": [
+        {
+          "type": "distortion",
+          "drive": 1.2
+        },
+        {
+          "type": "mystery"
+        }
+      ]
+    },
+    {
+      "id": "bass",
+      "patch": "missing_patch",
+      "gain": 4,
+      "events": [
+        {
+          "note": 200,
+          "start_beat": 0,
+          "duration_beats": 1.5,
+          "velocity": 0.8
+        },
+        {
+          "note": 36,
+          "start_beat": 2,
+          "duration_beats": 1.5,
+          "velocity": 0.8
+        },
+        {
+          "note": 43,
+          "start_beat": 4,
+          "duration_beats": 1.5,
+          "velocity": 0.8
+        },
+        {
+          "note": 39,
+          "start_beat": 6,
+          "duration_beats": 1.5,
+          "velocity": 0.8
+        }
+      ],
+      "processors": [
+        {
+          "type": "lowpass",
+          "cutoff_hz": 600
+        }
+      ]
+    },
+    {
+      "id": "harmony",
+      "patch": "pad",
+      "gain": 0.55,
+      "events": [
+        {
+          "note": 60,
+          "start_beat": 0,
+          "duration_beats": 3.5,
+          "velocity": 0.6,
+          "start_unit": "samples"
+        },
+        {
+          "note": 64,
+          "start_beat": 0,
+          "duration_beats": 3.5,
+          "velocity": 0.6
+        },
+        {
+          "note": 67,
+          "start_beat": 0,
+          "duration_beats": 3.5,
+          "velocity": 0.6
+        },
+        {
+          "note": 62,
+          "start_beat": 4,
+          "duration_beats": 3.5,
+          "velocity": 0.6
+        },
+        {
+          "note": 65,
+          "start_beat": 4,
+          "duration_beats": 3.5,
+          "velocity": 0.6
+        },
+        {
+          "note": 69,
+          "start_beat": 4,
+          "duration_beats": 3.5,
+          "velocity": 0.6
+        }
+      ],
+      "processors": []
+    },
+    {
+      "id": "motif",
+      "patch": "lead",
+      "gain": 0.6,
+      "events": [
+        {
+          "note": 72,
+          "start_beat": 0.5,
+          "duration_beats": 0.35,
+          "velocity": 0.75
+        },
+        {
+          "note": 74,
+          "start_beat": 1.5,
+          "duration_beats": 0.35,
+          "velocity": 0.75
+        },
+        {
+          "note": 79,
+          "start_beat": 2.5,
+          "duration_beats": 0.35,
+          "velocity": 0.75
+        },
+        {
+          "note": 76,
+          "start_beat": 4.5,
+          "duration_beats": 0.35,
+          "velocity": 0.75
+        },
+        {
+          "note": 74,
+          "start_beat": 5.5,
+          "duration_beats": 0.35,
+          "velocity": 0.75
+        },
+        {
+          "note": 72,
+          "start_beat": 6.5,
+          "duration_beats": 0.35,
+          "velocity": 0.75
+        }
+      ],
+      "processors": [],
+      "automation": [
+        {
+          "parameter": "gain",
+          "points": [
+            {
+              "beat": 0,
+              "value": 0.25
+            },
+            {
+              "beat": 4,
+              "value": 5
+            },
+            {
+              "beat": 8,
+              "value": 0.5
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "buses": [
+    {
+      "id": "music_bus",
+      "gain": 1,
+      "processors": []
+    },
+    {
+      "id": "delay_bus",
+      "gain": 0.45,
+      "processors": [
+        {
+          "type": "delay",
+          "milliseconds": 180,
+          "feedback": 0.3,
+          "mix": 1
+        }
+      ]
+    },
+    {
+      "id": "master",
+      "gain": 1,
+      "processors": []
+    }
+  ],
+  "routes": [
+    {
+      "source": "drums",
+      "destination": "music_bus"
+    },
+    {
+      "source": "harmony",
+      "destination": "music_bus"
+    },
+    {
+      "source": "motif",
+      "destination": "music_bus"
+    },
+    {
+      "source": "motif",
+      "destination": "delay_bus",
+      "gain": 0.35
+    },
+    {
+      "source": "delay_bus",
+      "destination": "music_bus"
+    },
+    {
+      "source": "music_bus",
+      "destination": "master"
+    },
+    {
+      "source": "ghost_processor",
+      "destination": "music_bus"
+    }
+  ]
+}
