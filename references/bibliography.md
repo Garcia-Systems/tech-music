@@ -120,3 +120,29 @@ Programming Interface and Data Specifications 1.0*, RIFF and WAVE form (1991).
 
 <a id="41"></a>41. IETF. RFC 6716, *Definition of the Opus Audio Codec*, 2012.
 <https://www.rfc-editor.org/rfc/rfc6716>.
+
+<a id="part-vii-sources"></a>
+## Part VII sources
+
+Part VII uses Smith's DFT text [4], Roads [29], Rumsey and McCormick [30], and
+Smith's filter text [34]. The executable claims are also checked against the
+repository's direct implementations and tests.
+
+<a id="42"></a>42. Lyons, Richard G. *Understanding Digital Signal Processing*.
+3rd ed. Pearson, 2011. (Discrete-time systems, convolution, filters, DFT/FFT,
+and spectral analysis.)
+
+<a id="43"></a>43. Oppenheim, Alan V., Ronald W. Schafer, and John R. Buck.
+*Discrete-Time Signal Processing*. 2nd ed. Prentice Hall, 1999. (Discrete-time
+signals and systems, LTI systems, transforms, and filter concepts.)
+
+<a id="44"></a>44. Harris, Fredric J. “On the Use of Windows for Harmonic Analysis
+with the Discrete Fourier Transform.” *Proceedings of the IEEE* 66, no. 1
+(1978): 51–83. <https://doi.org/10.1109/PROC.1978.10837>. (Window behavior and
+spectral leakage.)
+
+<a id="45"></a>45. SciPy Developers. “Discrete Fourier Transforms
+(`scipy.fft`).” *SciPy Manual*. <https://docs.scipy.org/doc/scipy/reference/fft.html>.
+Network inspection was attempted 2026-08-21 but the research endpoint returned
+HTTP 401. (Production-library comparison target only; no Part VII claim depends
+on this uninspected page, and SciPy is not a runtime dependency.)
