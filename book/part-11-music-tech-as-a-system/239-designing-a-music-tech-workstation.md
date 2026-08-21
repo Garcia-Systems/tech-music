@@ -1,0 +1,17 @@
+# Chapter 239 — Designing a Music-Tech Workstation
+
+> **Status:** reviewed educational model. Hardware behavior is not probed.
+
+Design from capabilities: recording needs a suitable transducer/source path, conversion/interface, storage, DAW routing, and monitoring; MIDI performance needs a controller/event source and instrument; synthesis and DSP need software and sufficient real-time compute; mixing needs routes/meters; export needs deterministic file rendering.
+
+Choose functional nodes before products: computer, OS/audio layer, interface where analog I/O is needed, microphone where capture is needed, controller where gestures are needed, DAW, synth, monitoring, and backup. Label every edge and clock/rate boundary.
+
+## Checkpoint
+
+Draw the relevant path, label every edge by type, and name one observable at each boundary. Connect the result to Parts IV–X rather than treating this layer in isolation.
+
+## References
+
+- Curtis Roads, *The Computer Music Tutorial*, 2nd ed., MIT Press, 2023 (computer-music systems and terminology).
+- Francis Rumsey and Tim McCormick, *Sound and Recording*, 7th ed., Focal Press, 2014 (recording, conversion, monitoring, and acoustics).
+- [Project bibliography and Part XI access/version note](../../references/bibliography.md#part-xi-sources), accessed or retrieval attempted 2026-08-21.

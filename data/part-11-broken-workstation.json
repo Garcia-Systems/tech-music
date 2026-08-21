@@ -1,0 +1,8 @@
+{
+  "sample_rate": 48000, "buffer_frames": 256, "master_muted": true,
+  "nodes": [
+    {"id": "controller", "role": "controller"}, {"id": "yoshimi", "role": "synth", "sample_rate": 44100},
+    {"id": "ardour", "role": "daw", "sample_rate": 48000}, {"id": "headphones", "role": "headphones"}
+  ],
+  "edges": [{"from": "yoshimi", "to": "ardour", "type": "audio"}]
+}

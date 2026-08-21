@@ -2,6 +2,48 @@
 
 Entries below were inspected for the model chapter unless explicitly marked as a source-plan item.
 
+<a id="part-xi-sources"></a>
+## Part XI — Music Tech as a System
+
+The stable textbooks below were available as established references already selected by
+the project. The official online documentation targets were rechecked on 2026-08-21;
+the environment could not establish an HTTP connection (`curl` status `000`), and the
+research endpoint returned HTTP 401. Consequently Part XI separates stable,
+manufacturer-neutral architecture from mutable commands and UI details, and records
+the access limitation rather than claiming page inspection.
+
+51. Hennessy, John L., and David A. Patterson. *Computer Architecture: A
+Quantitative Approach*. 6th ed. Morgan Kaufmann, 2017. (CPU, memory, storage,
+interconnect, throughput, and latency concepts.)
+52. USB Implementers Forum. [USB specifications and device-class
+documents](https://www.usb.org/documents). Official specification portal; retrieval
+attempted 2026-08-21. (Host/device model and Audio/MIDI device-class targets.)
+53. ALSA Project. [ALSA library PCM interface](https://www.alsa-project.org/alsa-doc/alsa-lib/pcm.html).
+Retrieval attempted 2026-08-21. (Official PCM API and terminology target.)
+54. JACK Audio Connection Kit. [JACK documentation and API](https://jackaudio.org/api/).
+Retrieval attempted 2026-08-21. (Official client, port, connection, callback, and
+real-time model target.)
+55. PipeWire Project. [Overview](https://docs.pipewire.org/page_overview.html).
+Retrieval attempted 2026-08-21. (Official graph and compatibility architecture target.)
+56. Ardour Project. [The Ardour Manual](https://manual.ardour.org/).
+Retrieval attempted 2026-08-21. (Official tracks, signal routing, monitoring, and
+backend behavior target; consult the manual matching the installed release.)
+57. Yoshimi Project. [Yoshimi User Guide](https://yoshimi.github.io/docs/user-guide/).
+Retrieval attempted 2026-08-21. The locally available Ubuntu metadata previously
+identified Yoshimi 2.3.2; this is not treated as the reader's version.
+58. MIDI Association. [MIDI specifications](https://midi.org/specs). Official portal;
+retrieval attempted 2026-08-21. (Controller and transport semantics target.)
+59. Audio Engineering Society. AES17-2020, *Measurement of Digital Audio Equipment*.
+<https://www.aes.org/publications/standards/search.cfm?docID=21>. (Converter and
+digital-audio measurement context.)
+60. Beranek, Leo L., and Tim Mellow. *Acoustics: Sound Fields and Transducers*.
+Academic Press, 2012. (Microphones, loudspeakers, rooms, and transduction.)
+
+Part XI also relies on Roads [29] for computer music, Rumsey and McCormick [30] for
+recording/conversion/monitoring, Smith [4, 34, 50] for sampled-signal and
+reconstruction concepts, Ardour [32], Yoshimi [35–36], and MIDI [46–47]. Executable
+arithmetic and structural claims are independently specified by source and tests.
+
 ## Part IX — Computer Science of Music
 
 These official project pages were selected for Part IX and access was attempted on 2026-08-21. The build environment returned HTTP 403, so chapters keep software claims high-level and flag remote revalidation before publication.
