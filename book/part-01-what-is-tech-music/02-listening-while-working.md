@@ -1,4 +1,4 @@
-# Listening While Working
+# Chapter 2 — Listening While Working
 
 Music beside a keyboard is common enough to feel ordinary. Its cognitive effects are not simple enough to turn into a rule.
 

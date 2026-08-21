@@ -1,4 +1,4 @@
-# Designing Your Own Technical Soundtrack
+# Chapter 6 — Designing Your Own Technical Soundtrack
 
 The most credible conclusion to Part I is provisional: *under these conditions, for this task, I observed this*. This chapter helps you write that sentence.
 
