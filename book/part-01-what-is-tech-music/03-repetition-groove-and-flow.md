@@ -1,4 +1,4 @@
-# Repetition, Groove, and Flow
+# Chapter 3 — Repetition, Groove, and Flow
 
 A loop can repeat exactly while the listener’s experience changes. On the first pass it is new; on the fourth it is expected; after a small alteration, memory makes the difference audible.
 

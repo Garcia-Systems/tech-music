@@ -1,6 +1,18 @@
 # Contributing
 
-Use focused changes and preserve the accessible music–math–software connection. Read the [editorial guide](docs/editorial-guide.md), [research standard](docs/research.md), and applicable template. Run `pytest` and `python scripts/check_markdown_links.py` before proposing a change. Add dependencies only when their educational value exceeds setup cost.
+Use focused changes and preserve the accessible music–math–software connection. Read the [editorial guide](docs/editorial-guide.md), [terminology guide](docs/terminology.md), [research standard](docs/research.md), and applicable template. Run `pytest`, `python scripts/check_markdown_links.py`, and `python scripts/audit_book.py` before proposing a change. Add dependencies only when their educational value exceeds setup cost.
+
+Number chapters once, globally and sequentially; use `NN-title.md` and
+`# Chapter NN — Title`. Add the chapter to its part index and the master TOC.
+Prefer linked titles over bare chapter-number references. A lab states its
+objective, prerequisites, command, expected evidence, debugging task,
+verification, extension, and cleanup where relevant. Substantive debugging
+lessons use **Symptom → Evidence → Hypotheses → Investigation → Root Cause → Fix
+→ Verification → Engineering Lesson**, with answers kept in `solutions/`.
+
+References must have been inspected. Prefer standards, official documentation,
+primary research, and established texts; record access boundaries in source
+notes. Test measurable behavior and invariants, not subjective musical quality.
 
 ## Generated artifacts
 

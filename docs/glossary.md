@@ -1,0 +1,41 @@
+# Glossary
+
+Definitions here follow the [terminology guide](terminology.md); linked chapters are canonical introductions.
+
+- **ADC (analog-to-digital converter):** hardware that measures an analog signal and encodes samples. See [Chapter 60](../book/part-06-digital-audio/60-from-analog-to-digital.md).
+- **Aliasing:** ambiguity introduced when sampled data cannot represent a frequency uniquely. See [Chapter 64](../book/part-06-digital-audio/64-aliasing.md).
+- **Amplitude:** a signal's displacement from its reference level; it is not automatically perceived loudness.
+- **Automation:** recorded or computed parameter change over time.
+- **Buffer:** memory holding data temporarily; audio software commonly processes a buffer as blocks of sample frames.
+- **Bus:** a signal path that combines or distributes other paths.
+- **Callback:** a function invoked by an audio system to process or supply a block before a deadline.
+- **Channel:** one audio signal path; in MIDI, a separate numbered addressing field—not a DAW track.
+- **Clipping:** limiting caused when a signal exceeds the representable or permitted range.
+- **Codec:** a defined method for encoding and decoding media data.
+- **Convolution:** a sum that combines a signal with an impulse response to model a linear time-invariant system.
+- **DAC (digital-to-analog converter):** hardware that reconstructs an analog electrical signal from digital samples.
+- **DAW (digital audio workstation):** software for arranging, recording, routing, processing, and rendering music or audio.
+- **DSP (digital signal processing):** analysis or transformation of signals represented as numbers.
+- **Envelope:** a time-varying control shape; ADSR names attack, decay, sustain, and release stages.
+- **FFT (fast Fourier transform):** an efficient family of algorithms for computing a discrete Fourier transform.
+- **Filter:** a system whose response varies with frequency.
+- **Frequency:** cycles per second, measured in hertz (Hz), for periodic behavior.
+- **Generated artifact:** reproducible output such as audio, a plot, report, cache, or model binary; normally ignored by Git.
+- **Latency:** elapsed time between an input or scheduled action and the corresponding output.
+- **LFO (low-frequency oscillator):** an oscillator commonly used as a control source rather than direct audible output.
+- **MIDI:** a family of specifications for musical messages, connections, and files; not audio.
+- **Musical event:** a program-level representation of an action in musical time; it is a MIDI event only when encoded under MIDI.
+- **Oscillator:** a system producing a repeating or approximately repeating signal.
+- **Patch:** a connected synthesis or processing configuration. A **preset** is saved parameter or patch state.
+- **PCM (pulse-code modulation):** sampled signal representation using quantized numerical values.
+- **Plugin:** a loadable processor or instrument implementing a host interface.
+- **Quantization:** mapping continuous or finely resolved values to allowed levels; in sequencing, moving events to a time grid.
+- **Sample:** one channel's numerical value at one sampling instant.
+- **Sample frame:** the simultaneous sample values for all audio channels at one sampling instant.
+- **Sample rate:** sample frames per second, measured in hertz.
+- **Send / return:** a route that feeds a copy of a signal to another path / the path that receives its result.
+- **Sequencer:** a system that stores, orders, transforms, and schedules musical events.
+- **Synthesis:** creation of sound or audio signals from a model or controlled process.
+- **Track:** a DAW arrangement and processing container, not inherently an audio or MIDI channel.
+- **Voice:** one independently articulated note-producing path in an instrument.
+- **Waveform:** signal value as a function of time, or the shape of one cycle of a periodic signal.

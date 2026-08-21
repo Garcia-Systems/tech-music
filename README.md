@@ -14,7 +14,11 @@ Concepts become small programs, plots, generated audio, measurements, deliberate
 
 ## Status
 
-Parts I–XII are research-informed executable drafts. Part XII adds Chapters 244–307, a dependency-free adaptive generator, human-in-the-loop controls, a capstone, debugging lab, and invariant-focused tests. This does not declare the whole textbook publication-ready; a whole-book editorial and release audit remains.
+**Version 0.1.0 release candidate.** Parts I–XII contain a continuous sequence of
+307 research-informed draft chapters. The automated suite, structural audit, and
+local-link check pass; software- and hardware-dependent labs remain explicitly
+unverified. See the truthful [release-readiness checklist](docs/release-readiness.md)
+and [release notes](docs/release-notes-0.1.0.md) before publishing.
 
 ## Quick start
 
@@ -23,7 +27,7 @@ Python 3.10+ is required:
 ```bash
 python -m venv .venv
 . .venv/bin/activate
-python -m pip install -r requirements.txt
+python -m pip install -e '.[dev]'
 python -m tech_music.waveform
 python -m tech_music.music
 python examples/part_05_synth.py
@@ -33,13 +37,16 @@ python examples/part_12_adaptive.py --mode focus --seed 12 --duration 8
 python -m tech_music.digital_audio assets/part-06/tone-stereo.wav
 pytest
 python scripts/check_markdown_links.py
+python scripts/audit_book.py
 ```
 
-The example creates `assets/audio/a4-sine.wav` and `assets/waveforms/a4-sine.svg`; generated artifacts are ignored because they are reproducible. Open the SVG, then play the WAV with any local player.
+The first waveform example uses legacy ignored paths under `assets/`; newer
+examples write beneath `generated/`. These outputs are reproducible and ignored.
+Open the SVG, then play the WAV with any local player.
 
 ## Repository map
 
-- [`book/`](book/README.md): complete reading order and chapter tree.
+- [`book/`](book/README.md): master TOC with every chapter, appendix, and capstone.
 - [`src/tech_music/`](src/tech_music/): reusable educational implementations.
 - [`examples/`](examples/): runnable and intentionally broken examples.
 - [`labs/`](labs/): reproducible lab guides.
@@ -47,7 +54,7 @@ The example creates `assets/audio/a4-sine.wav` and `assets/waveforms/a4-sine.svg
 - [`tests/`](tests/): executable claims and regression checks.
 - `generated/`: ignored audio, plots, reports, MIDI, datasets, and diagnostics produced by examples.
 - [`assets/`](assets/): legacy part-specific generated destinations and versioned teaching diagrams.
-- [`docs/`](docs/): contributor contracts, roadmap, and research policy.
+- [`docs/`](docs/learning-path.md): learning and reader paths, contributor contracts, glossary, audit records, and release policy.
 - [`references/`](references/bibliography.md): inspected sources and source notes.
 
 ## Developing the next chapter
