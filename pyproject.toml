@@ -15,6 +15,7 @@ dev = ["pytest>=7,<9"]
 [project.scripts]
 tech-music-waveform = "tech_music.waveform:main"
 tech-music-inspect = "tech_music.digital_audio:main"
+tech-music = "tech_music.app:main"
 
 [tool.pytest.ini_options]
 testpaths = ["tests"]

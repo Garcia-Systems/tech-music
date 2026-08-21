@@ -179,3 +179,14 @@ specification target for channel messages, data ranges, and SMF; access attempte
 <https://midi.org/midi-2-0>. (Official overview target used only to avoid implying
 that MIDI 1.0 is the entire present ecosystem; access attempted 2026-08-21 and
 blocked.)
+
+<a id="part-x-sources"></a>
+## Part X sources
+
+Part X reuses Roads [29], Smith [4, 34], RFC 8259 [33], the MIDI specification target [46], and the Python `wave` documentation [1]. See the [Part X source note](source-notes/part-10.md) for the access boundary.
+
+<a id="48"></a>48. Python Software Foundation. *Python 3 Library Reference*: `argparse`, `json`, `time`, `wave`, and `dataclasses`. <https://docs.python.org/3/library/>. Access attempted 2026-08-21; research endpoint returned HTTP 401.
+
+<a id="49"></a>49. pytest developers. *pytest documentation*. <https://docs.pytest.org/>. Access attempted 2026-08-21; research endpoint returned HTTP 401.
+
+<a id="50"></a>50. Smith, Julius O. *Physical Audio Signal Processing*. Online edition. <https://ccrma.stanford.edu/~jos/pasp/>. Access attempted 2026-08-21; research endpoint returned HTTP 401.
