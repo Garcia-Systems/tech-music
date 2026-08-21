@@ -2,6 +2,19 @@
 
 Entries below were inspected for the model chapter unless explicitly marked as a source-plan item.
 
+## Part IX — Computer Science of Music
+
+These official project pages were selected for Part IX and access was attempted on 2026-08-21. The build environment returned HTTP 403, so chapters keep software claims high-level and flag remote revalidation before publication.
+
+- ALSA project. “PCM Interface.” <https://www.alsa-project.org/alsa-doc/alsa-lib/pcm.html>.
+- Ardour project. “Development Documentation.” <https://docs.ardour.org/development/>.
+- CLAP. “Feature Overview and Specification.” <https://cleveraudio.org/1-feature-overview/>.
+- JACK Audio Connection Kit. “Client Callbacks.” <https://jackaudio.org/api/group__ClientCallbacks.html>.
+- LV2. “Architecture Overview.” <https://lv2plug.in/pages/architecture-overview.html>.
+- Martin, Robert C. *Clean Architecture*. Prentice Hall, 2017.
+- PipeWire project. “Overview.” <https://docs.pipewire.org/page_overview.html>.
+- Yoshimi project. “User Guide.” <https://yoshimi.github.io/docs/user-guide/>.
+
 ## Inspected sources
 
 1. Python Software Foundation. “`wave` — Read and write WAV files.” *Python 3.14.2 documentation*. <https://docs.python.org/3/library/wave.html>. Accessed 2026-08-21. (PCM WAV writing API and parameters.)
