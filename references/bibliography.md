@@ -146,3 +146,23 @@ spectral leakage.)
 Network inspection was attempted 2026-08-21 but the research endpoint returned
 HTTP 401. (Production-library comparison target only; no Part VII claim depends
 on this uninspected page, and SciPy is not a runtime dependency.)
+
+<a id="part-viii-sources"></a>
+## Part VIII sources
+
+Part VIII uses Roads [29] for computer-music and sequencing terminology and the
+MIDI Association portal [20] as the authoritative specification target. Direct
+inspection was blocked by the environment proxy on 2026-08-21, so claims are
+limited and the limitation is documented in the
+[Part VIII source note](source-notes/part-08.md).
+
+<a id="46"></a>46. MIDI Manufacturers Association. *The Complete MIDI 1.0
+Detailed Specification*, document version 4.2.1 (including Standard MIDI Files
+1.0), 1996–2014. Official access portal: <https://midi.org/specs>. (Primary
+specification target for channel messages, data ranges, and SMF; access attempted
+2026-08-21 and blocked.)
+
+<a id="47"></a>47. MIDI Association. “About MIDI 2.0.”
+<https://midi.org/midi-2-0>. (Official overview target used only to avoid implying
+that MIDI 1.0 is the entire present ecosystem; access attempted 2026-08-21 and
+blocked.)
