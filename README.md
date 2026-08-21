@@ -14,7 +14,7 @@ Concepts become small programs, plots, generated audio, measurements, deliberate
 
 ## Status
 
-Parts I–V are complete research-informed executable drafts. Part V adds eighteen synthesis chapters, reusable oscillator/envelope/filter/patch/polyphony helpers, comparative listening and debugging labs, and an offline synthesizer capstone. Ardour is the DAW case study and Yoshimi the synthesizer case study, always after general principles.
+Parts I–VI are complete research-informed executable drafts. Part VI adds eighteen digital-audio chapters, sampling/PCM/WAV utilities, thirteen figures, five listening comparisons, debugging labs, and an educational WAV inspector.
 
 ## Quick start
 
@@ -27,6 +27,8 @@ python -m pip install -r requirements.txt
 python -m tech_music.waveform
 python -m tech_music.music
 python examples/part_05_synth.py
+python examples/part_06_digital_audio.py
+python -m tech_music.digital_audio assets/part-06/tone-stereo.wav
 pytest
 python scripts/check_markdown_links.py
 ```

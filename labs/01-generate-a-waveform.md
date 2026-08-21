@@ -4,7 +4,7 @@
 Generate A4 as samples, a plot, and playable PCM WAV; then verify rather than merely trust it.
 
 ## Prerequisites
-Read [Generating a Waveform with Code](../book/part-06-digital-audio/03-generating-a-waveform-with-code.md); know how to activate the project virtual environment.
+Read [Generating a Waveform with Code](../book/part-06-digital-audio/59-frequency-amplitude-and-phase.md); know how to activate the project virtual environment.
 
 ## Required software
 Python 3.10+ and project dependencies from `requirements.txt`; a local image viewer and optional audio player.

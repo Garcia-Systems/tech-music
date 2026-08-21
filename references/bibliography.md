@@ -96,3 +96,27 @@ Part V uses Roads [29] for established synthesis terminology; Smith [4] for sinu
 <a id="35"></a>35. Ubuntu archive package metadata. “yoshimi 2.3.2-1build3.” Noble/universe package index, inspected locally with `apt-cache show yoshimi`, 2026-08-21. (Version, package description, dependencies, and official homepage only.)
 
 <a id="36"></a>36. Yoshimi Project. “Yoshimi Software Synthesizer” and source repository. <https://yoshimi.github.io/>; <https://github.com/Yoshimi/yoshimi>. Direct access attempted 2026-08-21; environment proxy returned HTTP 403. **Not inspected; not used for feature-level evidence.**
+
+<a id="part-vi-sources"></a>
+## Part VI sources
+
+Part VI uses Roads [29], Smith [4], Rumsey and McCormick [30], and Python `wave`
+[1]. Newly selected stable sources below could not be network-inspected; see the
+[source note](source-notes/part-06.md).
+
+<a id="37"></a>37. Shannon, Claude E. “Communication in the Presence of Noise.”
+*Proceedings of the IRE* 37, no. 1 (1949): 10–21. Reprinted in *Proceedings of the
+IEEE* 86, no. 2 (1998): 447–457. <https://doi.org/10.1109/5.659497>.
+
+<a id="38"></a>38. International Telecommunication Union. Recommendation ITU-T
+G.711, *Pulse Code Modulation (PCM) of Voice Frequencies* (1988).
+<https://www.itu.int/rec/T-REC-G.711/>.
+
+<a id="39"></a>39. Microsoft Corporation and IBM Corporation. *Multimedia
+Programming Interface and Data Specifications 1.0*, RIFF and WAVE form (1991).
+
+<a id="40"></a>40. IETF. RFC 9639, *Free Lossless Audio Codec (FLAC)*, 2024.
+<https://www.rfc-editor.org/rfc/rfc9639>.
+
+<a id="41"></a>41. IETF. RFC 6716, *Definition of the Opus Audio Codec*, 2012.
+<https://www.rfc-editor.org/rfc/rfc6716>.
