@@ -1,5 +1,7 @@
 # Chapter 8 — Rhythm and Groove
 
+![Chapter 8](../../images/chapters/8.png)
+
 ## A grid is a model
 **Rhythm** arranges events and rests in musical time. Quarter, eighth, and sixteenth notes conventionally divide a 4/4 bar into 4, 8, and 16 equal notated positions. An **accent** makes an event prominent; **syncopation** emphasizes a normally weaker position or crosses expected boundaries.
 

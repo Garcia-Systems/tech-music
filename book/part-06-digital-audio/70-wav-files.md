@@ -1,5 +1,7 @@
 # Chapter 70 — WAV Files
 
+![Chapter 70](../../images/chapters/70.png)
+
 WAVE is a RIFF container. A useful PCM subset begins with `RIFF` and `WAVE`, includes a `fmt ` chunk describing encoding, channels, sample rate, block alignment, and bit depth, and a `data` chunk containing sample bytes. Other legal chunks and variants exist, so never assume every WAV has a fixed 44-byte header.
 
 ![Simplified WAV structure](../../assets/part-06/wav-structure.svg)

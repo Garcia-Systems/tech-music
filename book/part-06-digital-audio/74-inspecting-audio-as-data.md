@@ -1,5 +1,7 @@
 # Chapter 74 — Inspecting Audio as Data
 
+![Chapter 74](../../images/chapters/74.png)
+
 Use the stereo artifact generated from Part V oscillator ideas:
 
 ```bash

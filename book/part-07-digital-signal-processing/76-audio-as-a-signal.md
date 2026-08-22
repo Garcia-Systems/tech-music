@@ -1,5 +1,7 @@
 # Chapter 76 — Audio as a Signal
 
+![Chapter 76](../../images/chapters/76.png)
+
 ## Hear → see → describe
 
 A signal is the ordered sequence `x[0], x[1], …, x[N-1]`; `n` is a dimensionless sample index. Hear the generated tone, inspect its plot, then read `y[n] = process(x[n])`. For `y[n] = 0.5 x[n]`, input and output have the same duration but different amplitude. A **system** maps input to output. Parameters, other signals, earlier samples, channels, and internal **state** may also influence that map.

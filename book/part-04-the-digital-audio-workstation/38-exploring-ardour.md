@@ -1,5 +1,7 @@
 # Chapter 38 — Exploring Ardour
 
+![Chapter 38](../../images/chapters/38.png)
+
 Ardour is the intended concrete case study after the general model. Because neither the official site/manual nor an Ardour installation was accessible during this run, the table below is a **verification worksheet**, not a set of published behavior claims. Confirm every term against the official manual version matching the installed application before publication.
 
 | General concept | Ardour case-study term/view |

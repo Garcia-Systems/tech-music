@@ -1,5 +1,7 @@
 # Chapter 68 — Channels, Frames, and Interleaving
 
+![Chapter 68](../../images/chapters/68.png)
+
 A **channel** is one signal stream. Mono has one; stereo commonly has left and right; multichannel has more. A **sample frame** contains one simultaneous sample value per channel. Consequently, frame count is not channel-sample count.
 
 Interleaved stereo stores:

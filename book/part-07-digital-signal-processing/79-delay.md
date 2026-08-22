@@ -1,5 +1,7 @@
 # Chapter 79 — Delay
 
+![Chapter 79](../../images/chapters/79.png)
+
 ## Hear → see → describe
 
 A pure discrete delay is `y[n] = x[n-D]`, with zeros before the input exists. `D` is samples. Convert deliberately: `D = delay_seconds × sample_rate`, or `milliseconds × sample_rate / 1000`. A feed-forward echo is `y[n] = x[n] + g x[n-D]`.

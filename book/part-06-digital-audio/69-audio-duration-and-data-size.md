@@ -1,5 +1,7 @@
 # Chapter 69 — Audio Duration and Data Size
 
+![Chapter 69](../../images/chapters/69.png)
+
 For uncompressed PCM:
 
 `data_rate_bits_per_second = sample_rate × bit_depth × channels`

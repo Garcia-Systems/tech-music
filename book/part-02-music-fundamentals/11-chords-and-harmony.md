@@ -1,5 +1,7 @@
 # Chapter 11 — Chords and Harmony
 
+![Chapter 11](../../images/chapters/11.png)
+
 An **interval** is a distance between pitches. A **chord** combines pitches; a **triad** contains a root, third, and fifth when arranged in thirds. In semitone data, `major_triad = [0,4,7]` and `minor_triad = [0,3,7]`. The root supplies identity, while the third distinguishes these two types and the fifth is seven semitones above the root.
 
 ```text

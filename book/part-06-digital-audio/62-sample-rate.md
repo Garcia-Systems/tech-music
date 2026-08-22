@@ -1,5 +1,7 @@
 # Chapter 62 — Sample Rate
 
+![Chapter 62](../../images/chapters/62.png)
+
 Changing sample rate changes frame count for a fixed duration, time spacing, available band under sampling assumptions, storage, and work per second. It does **not** directly mean bit depth, encoded bitrate, musical tempo, or oscillator frequency.
 
 ## Major debugging lesson: 48 kHz declared as 44.1 kHz

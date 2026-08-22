@@ -1,5 +1,7 @@
 # Chapter 46 — Filters
 
+![Chapter 46](../../images/chapters/46.png)
+
 A filter changes frequency content. A low-pass favors content below cutoff, a high-pass favors content above it, and a band-pass favors a region. **Cutoff** names a transition location, not a brick wall. Resonance or Q describes emphasis/selectivity near that region; the one-pole lab deliberately has no resonance control.
 
 Run the lab. `filter-before-after.wav` places the original saw first and the 700 Hz low-pass result second; `filter-comparison.svg` shows their short waveforms. This demonstrates behavior, not a full DSP derivation or perceptual guarantee.

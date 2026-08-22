@@ -1,5 +1,7 @@
 # Chapter 27 — The DAW as an IDE for Music
 
+![Chapter 27](../../images/chapters/27.png)
+
 A DAW can be understood **somewhat like an IDE for music**. The analogy helps a programmer ask where artifacts, tools, state, execution, and diagnostics live; it is not a technical equivalence.
 
 | Software development | Music production |

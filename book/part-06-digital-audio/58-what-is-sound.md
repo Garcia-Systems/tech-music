@@ -1,5 +1,7 @@
 # Chapter 58 — What Is Sound?
 
+![Chapter 58](../../images/chapters/58.png)
+
 A vibrating source disturbs a **medium**. In air, alternating local **compressions** and **rarefactions** create acoustic-pressure variation around atmospheric pressure. That physical propagation is sound; it needs a source, medium, and potential listener, but not a computer.
 
 ```mermaid

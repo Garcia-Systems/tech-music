@@ -1,5 +1,7 @@
 # Chapter 9 — Pitch, Notes, and Frequency
 
+![Chapter 9](../../images/chapters/9.png)
+
 ## From hearing to numbers
 **Frequency** is a physical repetition rate in hertz (cycles/second). **Pitch** is the perceptual and musical attribute by which sounds seem higher or lower. They are related, but pitch also depends on spectrum, context, and listeners; a complex sound is not simply “its frequency.” Note names A–G repeat by **octave**. The twelve **semitones** from one note to its octave form the common chromatic collection in twelve-tone equal temperament (12-TET). **Tuning** specifies how note categories map to frequencies; A4 = 440 Hz is a common reference, not a claim about every practice.
 

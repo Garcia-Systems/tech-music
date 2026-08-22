@@ -1,5 +1,7 @@
 # Chapter 12 — Bass Lines
 
+![Chapter 12](../../images/chapters/12.png)
+
 Bass is low-register musical material that can clarify harmonic roots, reinforce or counter the drums, and shape groove. **Root movement** traces chord foundations; **repetition** makes that movement legible. An **octave** doubles frequency and moves twelve MIDI semitones. A **passing note** connects more structurally important pitches, but its role depends on context.
 
 ## Build with a sequencer representation

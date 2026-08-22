@@ -1,5 +1,7 @@
 # Chapter 14 — Repetition and Variation
 
+![Chapter 14](../../images/chapters/14.png)
+
 Part I treated repetition as a listening phenomenon. Composition turns it into a controllable relationship. A **loop** repeats a bounded span; a **motif** is identifiable material. Repetition supports memory and expectation, while **variation** preserves some identity and changes something else. **Contrast** makes difference salient; **development** creates a larger path through transformations.
 
 > Repetition establishes identity. Variation creates movement.

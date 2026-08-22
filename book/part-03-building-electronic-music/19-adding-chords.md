@@ -1,5 +1,7 @@
 # Chapter 19 — Adding Chords and Harmonic Texture
 
+![Chapter 19](../../images/chapters/19.png)
+
 A sustained C-minor triad (C–E-flat–G) adds pitch context and occupies more continuous space than the bass. Key, scale, triad, register, and voice placement build directly on Part II Chapters 9–11. This deliberately static harmony lets texture be heard without presenting one progression as compulsory.
 
 Play `03-drums-bass.wav` and `04-add-harmony.wav`. For sustained chords keep duration `3.7`; for rhythmic chords create shorter repeated events. To transpose, add the same semitone count to every chord pitch and bass root, validating the 0–127 range.

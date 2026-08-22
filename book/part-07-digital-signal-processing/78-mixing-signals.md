@@ -1,5 +1,7 @@
 # Chapter 78 — Mixing Signals
 
+![Chapter 78](../../images/chapters/78.png)
+
 ## Hear → see → describe
 
 Sample-aligned mixing is `y[n] = x1[n] + x2[n]`. Source levels accumulate, so two safe tracks can make an unsafe bus. Equal signals add; equal polarity-opposed signals cancel. Phase and alignment therefore make mixing more than placing tracks together.

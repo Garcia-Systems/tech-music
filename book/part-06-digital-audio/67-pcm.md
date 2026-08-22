@@ -1,5 +1,7 @@
 # Chapter 67 — PCM
 
+![Chapter 67](../../images/chapters/67.png)
+
 **Pulse-Code Modulation (PCM)** is a sequence of quantized sample values representing an audio signal. For one mono excerpt it might be:
 
 ```text

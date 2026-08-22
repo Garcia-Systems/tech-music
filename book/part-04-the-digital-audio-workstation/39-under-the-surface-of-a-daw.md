@@ -1,5 +1,7 @@
 # Chapter 39 — Under the Surface of a DAW
 
+![Chapter 39](../../images/chapters/39.png)
+
 What must happen inside software for a DAW to provide these features?
 
 ```mermaid

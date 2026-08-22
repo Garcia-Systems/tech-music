@@ -1,5 +1,7 @@
 # Chapter 34 — Automation
 
+![Chapter 34](../../images/chapters/34.png)
+
 Automation is **parameters changing over time**. A lane targets volume, pan, cutoff, effect mix, mute, or another parameter and stores points such as:
 
 ```json

@@ -1,5 +1,7 @@
 # Chapter 49 — Subtractive Synthesis
 
+![Chapter 49](../../images/chapters/49.png)
+
 Subtractive synthesis begins with spectrally rich material and removes or attenuates portions with a filter.
 
 ```mermaid

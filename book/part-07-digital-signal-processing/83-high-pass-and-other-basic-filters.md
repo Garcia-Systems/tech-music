@@ -1,5 +1,7 @@
 # Chapter 83 — High-Pass and Other Basic Filters
 
+![Chapter 83](../../images/chapters/83.png)
+
 ## Hear → see → describe
 
 Subtracting this educational low-pass output from the aligned input gives a complementary high-pass model. Cascading simple high- and low-pass stages can illustrate bands; a narrow rejection requires design care. Q, phase, and exact cutoff behavior need a trusted design library in production.

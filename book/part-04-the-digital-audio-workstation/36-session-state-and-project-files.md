@@ -1,5 +1,7 @@
 # Chapter 36 — Session State and Project Files
 
+![Chapter 36](../../images/chapters/36.png)
+
 A session must remember tempo, markers, tracks, regions, media references, plugin assignments and parameters, routes, automation, and mixer settings. This is a persistence problem: serialize an object graph, preserve stable IDs, and resolve references when loading.
 
 `data/part-04-session.json` is deliberately readable. `load_session()` reconstructs data; `timeline_svg()` derives placement; `render_session()` derives sound. The WAV and SVG are outputs, not the authority. This resembles source/build separation without making the DAW/IDE analogy exact.

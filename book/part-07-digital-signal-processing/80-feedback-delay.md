@@ -1,5 +1,7 @@
 # Chapter 80 — Feedback Delay
 
+![Chapter 80](../../images/chapters/80.png)
+
 ## Hear → see → describe
 
 Feedback uses earlier output: `y[n] = x[n] + f y[n-D]`. The delay buffer and cursor are state. For this educational rack `|f| < 1`; each repeat decays geometrically. This bound is not a claim about every possible feedback network.

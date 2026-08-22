@@ -1,5 +1,7 @@
 # Chapter 26 — What Is a Digital Audio Workstation?
 
+![Chapter 26](../../images/chapters/26.png)
+
 A **digital audio workstation (DAW)** is software for making and preserving time-based sound work. It can record inputs, play material, sequence events, edit without rewriting source media, route signals, process them, automate controls, mix many paths, save session state, and export audio. These are families of capability, not a checklist shared identically by every product.
 
 ```mermaid

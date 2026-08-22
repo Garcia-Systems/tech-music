@@ -1,5 +1,7 @@
 # Chapter 17 — Building the Drum Groove
 
+![Chapter 17](../../images/chapters/17.png)
+
 The recurring case study uses a house-derived four-on-the-floor kick: one kick on each quarter-note beat. **Tech music is not synonymous with house music.** Techno may redistribute accents, ambient music may omit a pulse, and downtempo may use a slower or broken pattern. This transparent grid is a teaching choice.
 
 The kick establishes pulse; claps on beats two and four mark a backbeat; closed hats expose subdivisions; short percussion adds asymmetry. An open hat would usually be longer than the closed hat. Accents change velocity; rests are intentional empty cells. Build in order: `01-kick.wav`, then `02-drums.wav`. In `rhythmic-grid.svg`, all rows share one clock.

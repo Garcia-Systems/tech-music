@@ -1,5 +1,7 @@
 # Chapter 16 — From Silence to a Loop
 
+![Chapter 16](../../images/chapters/16.png)
+
 Begin with an empty timeline. **What is the smallest useful piece of electronic music we can build?** One event supplies a sound; a few deliberately placed events supply a finite pattern; repeating that pattern supplies a loop. A loop is both musical structure and bounded data—not a claim that music and software are identical.
 
 At 120 BPM, one beat lasts `60 / 120 = 0.5` seconds. In 4/4, a one-bar loop has four beats. Dividing each beat into four produces sixteen steps; valid event starts are measured in beats from the inclusive start boundary, while the loop end is exclusive. `loop_events()` stores events once and the renderer repeats them through arrangement bars.
