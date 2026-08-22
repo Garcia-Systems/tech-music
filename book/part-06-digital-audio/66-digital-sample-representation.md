@@ -1,5 +1,7 @@
 # Chapter 66 — Digital Sample Representation
 
+![Chapter 66](../../images/chapters/66.png)
+
 Audio software commonly uses signed integer PCM or normalized floating point. This book's float convention is `-1.0 … +1.0`: zero is the signal center, signs indicate opposite signal polarity, and magnitude gives distance from zero. It is a software convention—not physical volts or pascals.
 
 PCM16 uses −32768…32767. The implementation maps −1 exactly to −32768 and +1 to 32767. Intermediate round trips have at most about one integer step of error. Values beyond normalized bounds are **clipped** by default or rejected in strict mode; NaN is rejected.

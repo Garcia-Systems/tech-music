@@ -1,5 +1,7 @@
 # Chapter 64 — Aliasing
 
+![Chapter 64](../../images/chapters/64.png)
+
 **Aliasing** occurs when different continuous frequencies produce indistinguishable sample sequences. At 16 samples/s, an 11 Hz sinusoid has an apparent 5 Hz alias because `|11 - 16| = 5` (phase/sign can differ). Once sampled without adequate band limitation, the sequence alone cannot reveal which candidate produced it.
 
 ![Aliasing](../../assets/part-06/aliasing.svg)

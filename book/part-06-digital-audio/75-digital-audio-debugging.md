@@ -1,5 +1,7 @@
 # Chapter 75 — Digital Audio Debugging
 
+![Chapter 75](../../images/chapters/75.png)
+
 Use one repeatable protocol: **Symptom → Measurements → Hypotheses → Investigation → Root cause → Fix → Verification**.
 
 | Bug | Measurements and hypothesis | Root cause → fix → objective verification |

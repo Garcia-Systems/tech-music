@@ -1,5 +1,7 @@
 # Chapter 77 — Gain
 
+![Chapter 77](../../images/chapters/77.png)
+
 ## Hear → see → describe
 
 Gain is the stateless rule `y[n] = g x[n]`: `x[n]` and `y[n]` are normalized samples, while `g` is a dimensionless multiplier. Hear `g=1`, `0.5`, `0`, `2`, and `-1`; negative gain reverses polarity rather than making a signal 'negatively loud.' Peak and RMS scale by `|g|` until export clips.

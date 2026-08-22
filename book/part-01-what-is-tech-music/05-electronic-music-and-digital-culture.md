@@ -1,5 +1,7 @@
 # Chapter 5 — Electronic Music and Digital Culture
 
+![Chapter 5](../../images/chapters/5.png)
+
 Electronic music did not wait for the laptop, and the laptop did not dictate what electronic music would become. Instruments, standards, studios, scenes, manufacturers, and musicians developed through feedback: a tool suggested practices; practices exposed limitations; communities repurposed tools.
 
 ## Selected crossings of music and computation

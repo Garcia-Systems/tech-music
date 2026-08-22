@@ -1,5 +1,7 @@
 # Chapter 10 — Scales and Keys
 
+![Chapter 10](../../images/chapters/10.png)
+
 A **scale** is an ordered pitch collection. Its point of reference is the **tonic**; a **key** is a broader tonal context in which pitches and harmonies relate to a tonic. A **scale degree** numbers a member relative to that tonic. A chromatic scale uses every semitone; major and natural minor select different interval patterns. **Octave equivalence** means notes separated by octaves often share a note name and pitch-class role, although they remain different pitches and frequencies.
 
 ```text

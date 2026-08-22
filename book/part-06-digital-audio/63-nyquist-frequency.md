@@ -1,5 +1,7 @@
 # Chapter 63 — Nyquist Frequency
 
+![Chapter 63](../../images/chapters/63.png)
+
 For a signal band-limited below a highest frequency, ideal uniform samples permit reconstruction when sample rate is **strictly greater than twice** that highest frequency. This educational statement retains essential assumptions: band limitation, suitable reconstruction, and ideal sampling. Real systems need transition bands and anti-alias filters.
 
 `nyquist_frequency = sample_rate / 2`

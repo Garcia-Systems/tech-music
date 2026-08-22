@@ -1,5 +1,7 @@
 # Chapter 81 — Filters as Systems
 
+![Chapter 81](../../images/chapters/81.png)
+
 ## Hear → see → describe
 
 A filter changes frequency relationships. Low-pass retains more low-frequency energy; high-pass retains more high; band-pass selects a region; a notch rejects one. Cutoff is in hertz, while resonance/Q describes emphasis or selectivity. A time-domain recurrence operates on samples; a frequency response describes the same system's behavior by frequency.

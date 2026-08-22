@@ -1,5 +1,7 @@
 # Chapter 57 — Under the Hood of a Software Synthesizer
 
+![Chapter 57](../../images/chapters/57.png)
+
 ```mermaid
 flowchart TB
  M[MIDI / note event] --> V[Voice allocator] --> O[Oscillator] --> E[Envelope] --> F[Filter] --> A[Amplifier] --> FX[Effects] --> VM[Voice mix] --> B[Audio buffer] --> X[Output]

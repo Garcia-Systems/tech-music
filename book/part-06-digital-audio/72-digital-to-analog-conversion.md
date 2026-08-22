@@ -1,5 +1,7 @@
 # Chapter 72 — Digital-to-Analog Conversion
 
+![Chapter 72](../../images/chapters/72.png)
+
 Playback completes a physical loop:
 
 ```text

@@ -1,5 +1,7 @@
 # Chapter 61 — Sampling
 
+![Chapter 61](../../images/chapters/61.png)
+
 **Sample rate** is the number of sample frames captured or generated per second, expressed in samples/s (often written Hz when context is clear). Rates such as 8,000, 44,100, and 48,000 samples/s serve different systems; none is universally best.
 
 `sample_interval = 1 / sample_rate`

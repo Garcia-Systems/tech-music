@@ -1,5 +1,7 @@
 # Chapter 1 — The Idea of Tech Music
 
+![Chapter 1](../../images/chapters/1.png)
+
 A laptop can be where a deadline lives and where a new sound begins. The same machine that compiles a program can sequence a rhythm, calculate a waveform, and turn gestures into recordings. This book starts with that double life.
 
 ## A working concept, not a genre

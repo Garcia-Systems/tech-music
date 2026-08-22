@@ -1,5 +1,7 @@
 # Chapter 13 — Melody
 
+![Chapter 13](../../images/chapters/13.png)
+
 A melody is not pitch alone. Its **contour** rises, falls, or repeats; a **step** moves to a nearby scale member and a **leap** moves farther. A short recognizable **motif** can grow into a **phrase** through repetition and variation. A **sequence** restates material at another pitch level. **Register** locates it broadly as low or high, and rhythm determines when its pitches matter.
 
 ```python

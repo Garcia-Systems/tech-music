@@ -1,5 +1,7 @@
 # Chapter 65 — Quantization and Bit Depth
 
+![Chapter 65](../../images/chapters/65.png)
+
 Sampling discretizes **time**; quantization discretizes **amplitude**. A `b`-bit code has `2^b` patterns: 8-bit has 256 and 16-bit has 65,536. Signed PCM assigns those patterns across negative and positive integers; mappings are often asymmetric by one code (PCM16 is −32768…32767).
 
 The difference between input and assigned level is **quantization error**. More bit depth gives more levels and, under specified signal/noise assumptions, greater usable dynamic range. It is not sample rate or bitrate.

@@ -1,5 +1,7 @@
 # Chapter 24 — Turning a Loop into a Track
 
+![Chapter 24](../../images/chapters/24.png)
+
 The educational form is Intro → Groove → Development → Breakdown → Build → Main Return → Outro. It is not a required song form. `ARRANGEMENT` represents each section as a name, bar count, active-layer tuple, and variation. At 120 BPM its fourteen 4/4 bars last 28 seconds.
 
 Data makes arrangement reusable: validation computes boundaries, rendering selects layers, and SVG generation draws the same section records. Open `arrangement.svg`: width encodes bars and blue regions encode active layers, resembling the conceptual regions of a DAW timeline without teaching a particular DAW.

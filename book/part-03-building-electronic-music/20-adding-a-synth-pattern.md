@@ -1,5 +1,7 @@
 # Chapter 20 — Adding a Synthesizer Pattern
 
+![Chapter 20](../../images/chapters/20.png)
+
 A **motif** is a recognizable small musical idea; a **sequence** places its events over time. The four-note motif uses a higher register, short notes, repeated rhythm, and an octave-lifted return. It is structured `Event` data, so notes, octave (`±12`), start, duration, velocity, and repetition are independently editable.
 
 Compare `04-add-harmony.wav` with `05-add-synth.wav`; inspect the synth row. Try one change at a time and regenerate. A simple sine-plus-harmonic timbre keeps attention on musical function rather than preset collecting.

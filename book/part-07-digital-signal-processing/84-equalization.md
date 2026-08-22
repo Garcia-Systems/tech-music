@@ -1,5 +1,7 @@
 # Chapter 84 — Equalization
 
+![Chapter 84](../../images/chapters/84.png)
+
 ## Hear → see → describe
 
 EQ is controlled frequency shaping. Shelves affect regions above or below a transition; a bell boosts or cuts around a center frequency; Q or bandwidth controls width. Frequency is hertz, gain commonly decibels, and Q is dimensionless.

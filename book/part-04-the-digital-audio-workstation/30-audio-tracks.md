@@ -1,5 +1,7 @@
 # Chapter 30 — Audio Tracks
 
+![Chapter 30](../../images/chapters/30.png)
+
 An audio track places recorded or imported sources on a timeline. A waveform display is a visual summary, not the sound itself. Region gain scales a placement; fades ramp its edges; trimming changes the exposed range; splitting makes editable pieces; concatenation renders pieces in sequence. A crossfade overlaps complementary fades to make a transition less abrupt.
 
 Using repository-generated audio avoids copyright and provenance ambiguity. A minimal edit pipeline is:

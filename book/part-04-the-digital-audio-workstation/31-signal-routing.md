@@ -1,5 +1,7 @@
 # Chapter 31 — Signal Routing
 
+![Chapter 31](../../images/chapters/31.png)
+
 Routing answers: **where does this signal go next?** A source enters an input, a track may apply an insert, its output reaches a bus or master, and the master reaches output. A **send** branches to another path; a **return** is the processed path coming back. Parallel processing preserves a dry path beside a wet path.
 
 ```text

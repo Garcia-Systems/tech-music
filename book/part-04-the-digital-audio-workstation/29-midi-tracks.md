@@ -1,5 +1,7 @@
 # Chapter 29 — MIDI Tracks
 
+![Chapter 29](../../images/chapters/29.png)
+
 Here, “MIDI-style” means editable musical-event data—not the complete MIDI wire protocol taught in Part VIII. A note event has a pitch, start, duration, and velocity; a channel can distinguish destinations, while controller events describe changing performance controls. A piano roll maps time horizontally and pitch vertically. A rhythmic grid emphasizes onset subdivisions; a list exposes exact values.
 
 Part III's `Event` objects are one dataset with multiple representations:

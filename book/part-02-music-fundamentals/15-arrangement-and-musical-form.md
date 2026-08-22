@@ -1,5 +1,7 @@
 # Chapter 15 — Arrangement and Musical Form
 
+![Chapter 15](../../images/chapters/15.png)
+
 A **phrase** is a coherent musical span; a **section** is a larger region distinguished by material or function. Names such as **intro**, **buildup**, **main section**, **breakdown**, **transition**, and **outro** describe common roles, not a universal template. House and other electronic tracks often clarify form by adding and removing repeating layers, but genres and individual tracks vary greatly.
 
 **Arrangement** places materials across the whole timeline. **Layering** combines parts; **density** describes how much is active. Changes in register, rhythm, harmony, timbre, and density can contribute to experienced **tension** and **release**, which remain contextual.

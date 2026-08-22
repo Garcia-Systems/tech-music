@@ -1,5 +1,7 @@
 # Chapter 73 — Latency in Digital Audio
 
+![Chapter 73](../../images/chapters/73.png)
+
 Latency is delay between cause and observed result. Digital-audio paths can include conversion, input/output buffering, processing, driver/operating-system scheduling, and acoustic travel. **Monitoring latency** is an end-to-end property, not merely one buffer.
 
 `buffer_duration = buffer_size_samples / sample_rate_samples_per_second`

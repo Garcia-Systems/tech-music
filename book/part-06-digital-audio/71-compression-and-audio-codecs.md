@@ -1,5 +1,7 @@
 # Chapter 71 — Compression and Audio Codecs
 
+![Chapter 71](../../images/chapters/71.png)
+
 A **codec** defines how audio is encoded/decoded; a **container** organizes encoded data and metadata. Names are sometimes used loosely, so identify both.
 
 | Example | Kind | Loss model | Teaching note |

@@ -1,5 +1,7 @@
 # Chapter 40 — What Is a Synthesizer
 
+![Chapter 40](../../images/chapters/40.png)
+
 A synthesizer is an instrument **and** a signal-generating system. An input event does not contain sound: it supplies intent—note, velocity, and perhaps controllers. A sound generator creates a signal; envelopes, filters, amplifiers, mixers, modulation, and effects shape it.
 
 ```mermaid

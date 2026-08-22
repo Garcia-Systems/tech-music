@@ -1,5 +1,7 @@
 # Chapter 33 — Plugins and Effects
 
+![Chapter 33](../../images/chapters/33.png)
+
 A **plugin host** loads another software component under a contract. An instrument plugin turns event/control input into audio; an effect plugin transforms audio. The user sees parameters, presets, bypass, input/output configuration, and a chain. The software sees interfaces, lifecycle, parameter/state exchange, and processing calls.
 
 ```mermaid

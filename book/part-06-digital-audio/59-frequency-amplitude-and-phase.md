@@ -1,5 +1,7 @@
 # Chapter 59 — Frequency, Amplitude, and Phase
 
+![Chapter 59](../../images/chapters/59.png)
+
 One **cycle** is one repetition. **Frequency** counts cycles per second in hertz (Hz), so a 440 Hz sine completes approximately 440 cycles each second. Its **period** is
 
 `period (seconds/cycle) = 1 / frequency (cycles/second)`.

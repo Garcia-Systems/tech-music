@@ -1,5 +1,7 @@
 # Chapter 4 — Minimalism and Musical Space
 
+![Chapter 4](../../images/chapters/4.png)
+
 Removing a sound can reveal a rhythm that adding another layer concealed. Silence is not missing data; in music it can articulate boundaries, expectation, and breath.
 
 ## Density, texture, and room

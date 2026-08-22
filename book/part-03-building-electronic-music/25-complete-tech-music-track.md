@@ -1,5 +1,7 @@
 # Chapter 25 — Building a Complete Tech Music Track
 
+![Chapter 25](../../images/chapters/25.png)
+
 The capstone combines intentional tempo, house-derived rhythm, bass roots, minor harmony, a synth motif, texture, repetition, variation, transitions, seven sections, and explicit beginning/end. Its goal is **understandable construction**, not commercial mastering. Musical data + reusable renderer + arrangement data produce every artifact.
 
 Run `python -m tech_music.production`. Intermediate files preserve kick, drums, drums+bass, harmony, synth, and texture stages; `09-complete-track.wav` is the 28-second result. Inspect `rhythmic-grid.svg` and `arrangement.svg`. The renderer deterministically seeds noise, mixes event signals, applies one transparent peak normalization to 0.92, and writes mono 16-bit PCM. Regeneration is preferred to committing WAV binaries.

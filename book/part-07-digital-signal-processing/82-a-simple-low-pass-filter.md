@@ -1,5 +1,7 @@
 # Chapter 82 — A Simple Low-Pass Filter
 
+![Chapter 82](../../images/chapters/82.png)
+
 ## Hear → see → describe
 
 The educational one-pole rule is `y[n] = y[n-1] + α(x[n] - y[n-1])`. Current input and previous output are normalized samples; `α` is dimensionless in `(0,1]`. The previous output is state. Smaller alpha smooths more. This is not a production filter-design recipe.

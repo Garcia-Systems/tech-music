@@ -1,5 +1,7 @@
 # Chapter 23 — Tension, Release, and Transitions
 
+![Chapter 23](../../images/chapters/23.png)
+
 Tension and release are contextual experiences, not formulas. Addition, subtraction, silence, density, rhythm, register, anticipation, and fills can shape a transition. The build adds a final-beat percussion fill; the breakdown subtracts drums; the main return restores low-frequency pulse and changes the motif.
 
 ## Listening lab

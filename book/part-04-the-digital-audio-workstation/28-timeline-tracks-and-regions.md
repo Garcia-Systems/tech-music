@@ -1,5 +1,7 @@
 # Chapter 28 — Timeline, Tracks, and Regions
 
+![Chapter 28](../../images/chapters/28.png)
+
 The **timeline** is the time coordinate system; the **playhead** marks the current position. A **track** groups material and controls into a lane. A **region** (often called a clip elsewhere) places a reference to source material at a start time for a duration.
 
 Moving or copying changes placement. Trimming changes which interval is exposed. Splitting makes two region references at a boundary. Looping repeats a placement. These operations can be **nondestructive**: the source remains unchanged, so an edit can be revised.

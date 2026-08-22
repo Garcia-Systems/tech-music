@@ -1,5 +1,7 @@
 # Chapter 60 — From Analog to Digital
 
+![Chapter 60](../../images/chapters/60.png)
+
 Physical and analog electrical signals vary continuously in the useful idealized model; a computer stores finite symbols. Conversion therefore has two distinct discretizations:
 
 1. a conditioned analog signal reaches an **ADC**;

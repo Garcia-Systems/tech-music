@@ -1,5 +1,7 @@
 # Chapter 32 — Buses, Sends, and Returns
 
+![Chapter 32](../../images/chapters/32.png)
+
 An **insert** puts an effect directly in a track's serial path. A **send/return** creates a parallel branch to shared processing. With reverb, the direct path is **dry** and the return is **wet**. Many tracks can feed one effect bus, then one bus/return level controls their combined processed contribution.
 
 ```mermaid

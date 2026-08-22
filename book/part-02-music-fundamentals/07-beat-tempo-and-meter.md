@@ -1,5 +1,7 @@
 # Chapter 7 — Beat, Tempo, and Meter
 
+![Chapter 7](../../images/chapters/7.png)
+
 ## Hear → see → represent
 A **pulse** is a recurring temporal reference; a **beat** is a pulse position we count. **Tempo** is the rate of those beats, commonly measured in beats per minute (**BPM**). At 60 BPM, 60 beats occupy 60 seconds, so one beat lasts 1 second. At 120 BPM, a beat lasts 0.5 seconds. In general:
 

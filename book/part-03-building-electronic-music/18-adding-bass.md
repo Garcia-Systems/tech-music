@@ -1,5 +1,7 @@
 # Chapter 18 — Adding Bass
 
+![Chapter 18](../../images/chapters/18.png)
+
 Kick and bass often form a structural foundation because both shape low-register rhythm. They need not always coincide: this score puts each bass onset half a beat after a kick, making their relationship inspectable without introducing sidechain compression. Part II Chapter 12 supplies the pitch and register foundation.
 
 `loop_events()` uses roots C2, C2, F2, and G2, short durations, repetition, and rests. Octave changes preserve pitch class but alter register; longer duration changes overlap and motion. Render and compare `02-drums.wav`, a bass-only filtered score, and `03-drums-bass.wav`. Change `roots`, but retain 0–127 MIDI-compatible note-number values. These generic sequencer events are not yet MIDI messages.
