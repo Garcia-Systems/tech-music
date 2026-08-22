@@ -1,5 +1,7 @@
 # Chapter 86 — Distortion and Waveshaping
 
+![Chapter 86](../../images/chapters/86.png)
+
 ## Hear → see → describe
 
 Distortion is nonlinear: output is not proportional to input. Hard clipping limits values abruptly. Soft clipping uses a smooth rule such as `y = tanh(d x)/tanh(d)`, where `d` is dimensionless drive. Nonlinearity adds harmonics to a sine.

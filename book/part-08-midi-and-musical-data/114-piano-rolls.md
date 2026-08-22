@@ -1,5 +1,7 @@
 # Chapter 114 — Piano Rolls
 
+![Chapter 114](../../images/chapters/114.png)
+
 A piano roll places time on the horizontal axis and pitch on the vertical axis; a block's length represents note duration. It is an interface/visual representation, **not MIDI itself**. The same event list can appear as messages, a table, notation, JSON, a piano roll, or scheduled seconds.
 
 `piano-roll.svg` is generated from the sequencer phrase. The current dependency-free plot marks onsets; inspect paired note-off ticks for lengths. Compare the JSON and MIDI artifact: representation changes while the intended phrase remains related. This reinforces the Part II distinction between music concepts and data models.

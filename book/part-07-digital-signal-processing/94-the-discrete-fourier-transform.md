@@ -1,5 +1,7 @@
 # Chapter 94 — The Discrete Fourier Transform
 
+![Chapter 94](../../images/chapters/94.png)
+
 ## Hear → see → describe
 
 The DFT projects `N` input samples onto `N` complex frequency bins. Each complex result contains magnitude and phase for a finite observation window. Bin `k` corresponds to `k sample_rate/N` hertz under this simple mapping; negative-frequency bins occupy the upper half for real input.

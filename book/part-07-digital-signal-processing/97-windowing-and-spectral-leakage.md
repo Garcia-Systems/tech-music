@@ -1,5 +1,7 @@
 # Chapter 97 — Windowing and Spectral Leakage
 
+![Chapter 97](../../images/chapters/97.png)
+
 ## Hear → see → describe
 
 A finite cut is implicitly multiplied by a window. A rectangular window can spread an off-bin tone across bins. A Hann window tapers endpoints and reduces distant leakage while widening the main lobe; it also changes amplitude scaling.

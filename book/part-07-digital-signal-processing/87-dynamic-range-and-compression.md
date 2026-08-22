@@ -1,5 +1,7 @@
 # Chapter 87 — Dynamic Range and Compression
 
+![Chapter 87](../../images/chapters/87.png)
+
 ## Hear → see → describe
 
 A compressor reduces level above a threshold. Ratio describes input change to output change; attack and release are time constants in milliseconds; gain reduction changes level, and makeup gain follows. Compression is a choice, not an automatic improvement.

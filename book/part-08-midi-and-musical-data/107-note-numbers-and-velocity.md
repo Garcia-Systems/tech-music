@@ -1,5 +1,7 @@
 # Chapter 107 — Note Numbers and Velocity
 
+![Chapter 107](../../images/chapters/107.png)
+
 In the teaching 12-tone equal-tempered mapping, `f = 440 × 2^((n−69)/12)`. Thus 69 maps to A4 at 440 Hz and twelve note-number steps double frequency. Valid MIDI 1.0 data-byte values are 0–127; the mapping is a pitch instruction, not sound.
 
 Velocity is not universally “volume.” A receiving instrument may map it to amplitude, timbre, articulation, sample layer, several parameters, or nothing. This book's synth deliberately maps `velocity / 127` to amplitude, an **implementation choice** visible in code.

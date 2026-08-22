@@ -1,5 +1,7 @@
 # Chapter 101 — Block Processing
 
+![Chapter 101](../../images/chapters/101.png)
+
 ## Hear → see → describe
 
 Practical systems receive buffers: buffer in → process N samples → buffer out. Correct stateful processing preserves state across boundaries. Block size affects scheduling and latency, but must not change this offline algorithm's samples.

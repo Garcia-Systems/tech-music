@@ -1,5 +1,7 @@
 # Chapter 95 — The Fast Fourier Transform
 
+![Chapter 95](../../images/chapters/95.png)
+
 ## Hear → see → describe
 
 An FFT is an efficient family of algorithms for computing the DFT—not a different transform. Direct evaluation takes roughly O(N²) work; common FFT algorithms take roughly O(N log N), with implementation- and size-dependent constants.

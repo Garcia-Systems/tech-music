@@ -1,5 +1,7 @@
 # Chapter 106 — Note On and Note Off
 
+![Chapter 106](../../images/chapters/106.png)
+
 A note lifecycle begins with **Note On** and ends with **Note Off**. Note number selects pitch input; attack velocity is a value the receiver may interpret. A sequencer may store `start + duration`, but transmission turns that convenient record into two timed messages.
 
 ```text

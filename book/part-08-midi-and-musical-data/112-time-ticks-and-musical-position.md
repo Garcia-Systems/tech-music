@@ -1,5 +1,7 @@
 # Chapter 112 — Time, Ticks, and Musical Position
 
+![Chapter 112](../../images/chapters/112.png)
+
 Sequencers often preserve **musical time**: beats grouped into bars and divided into ticks. PPQ (pulses/ticks per quarter note) gives the resolution used here. Wall-clock seconds describe elapsed time; sample time is an integer position at a particular sample rate. Units are not interchangeable.
 
 ```text

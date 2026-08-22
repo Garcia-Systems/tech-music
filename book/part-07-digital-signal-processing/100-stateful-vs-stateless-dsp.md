@@ -1,5 +1,7 @@
 # Chapter 100 — Stateful vs Stateless DSP
 
+![Chapter 100](../../images/chapters/100.png)
+
 ## Hear → see → describe
 
 Gain is stateless: current output depends only on current input and parameter. Delays, recursive filters, compressors, and envelope followers are stateful: earlier samples live in buffers or variables. Reset is a lifecycle operation, not something to do accidentally.

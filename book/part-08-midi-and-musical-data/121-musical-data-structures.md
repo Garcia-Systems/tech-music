@@ -1,5 +1,7 @@
 # Chapter 121 — Musical Data Structures
 
+![Chapter 121](../../images/chapters/121.png)
+
 Music software can store event objects, ordered lists, tracks, clips, patterns, graphs, tempo maps, and automation curves. MIDI is important interchange/control technology, but an application need not use raw MIDI messages as its internal model for every musical idea.
 
 A useful schema identifies type, timestamp and unit, payload, channel/destination, track, and a stable ordering field. Serialization preserves it; IDs connect edits; validation protects boundaries; ordering makes output reproducible. `MidiEvent` is a frozen teaching record. Its tick time is explicit, but duration is intentionally expressed by a paired note-off, illustrating translation between a convenient clip model and message lifecycle.

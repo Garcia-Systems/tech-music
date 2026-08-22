@@ -1,5 +1,7 @@
 # Chapter 120 — MIDI vs Audio
 
+![Chapter 120](../../images/chapters/120.png)
+
 | Property | MIDI/event data | Audio |
 |---|---|---|
 | Represents | instructions/events | signal samples |

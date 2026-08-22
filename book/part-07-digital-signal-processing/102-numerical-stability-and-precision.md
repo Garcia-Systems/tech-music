@@ -1,5 +1,7 @@
 # Chapter 102 — Numerical Stability and Precision
 
+![Chapter 102](../../images/chapters/102.png)
+
 ## Hear → see → describe
 
 Floating point rounds; long sums accumulate error; integer PCM can overflow without widening/clipping; tiny denormal values can be costly on some systems; recursive systems can amplify errors. These are engineering constraints, not reasons to distrust all DSP.

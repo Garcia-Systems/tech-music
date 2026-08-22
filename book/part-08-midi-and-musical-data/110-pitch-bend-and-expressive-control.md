@@ -1,5 +1,7 @@
 # Chapter 110 — Pitch Bend and Expressive Control
 
+![Chapter 110](../../images/chapters/110.png)
+
 Pitch bend is separate from the integer note number. MIDI 1.0 communicates a high-resolution bend position around a center; the receiver also needs a configured bend range. The message does **not** impose one universal semitone range.
 
 `bend_frequency(note, bend, range_semitones)` normalizes the signed teaching representation (`−8192..8191`) and applies the explicitly supplied range. `pitch-bend.svg` shows note 69 under a configured ±2-semitone range; `pitch-bend-steps.wav` is a stepped listening approximation rather than a claim of smooth production bend.

@@ -1,5 +1,7 @@
 # Chapter 108 — MIDI Channels
 
+![Chapter 108](../../images/chapters/108.png)
+
 Traditional MIDI 1.0 channel voice messages address 16 logical channels. Many APIs number them 0–15 while user interfaces often display 1–16; this repository stores 0–15 and says so at every boundary.
 
 | Concept | Holds/routes | Typical numbering |

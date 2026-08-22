@@ -1,5 +1,7 @@
 # Chapter 89 — Reverb
 
+![Chapter 89](../../images/chapters/89.png)
+
 ## Hear → see → describe
 
 Physical reverberation contains direct sound, early reflections, and dense late decay. Algorithmic reverbs synthesize this behavior; convolution reverbs apply an impulse response. The lab uses a sparse synthetic response, not a sophisticated room model.

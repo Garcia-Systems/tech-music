@@ -1,5 +1,7 @@
 # Chapter 119 — MIDI Routing
 
+![Chapter 119](../../images/chapters/119.png)
+
 MIDI routing moves events among sources, ports, tracks, channels, and destinations. Audio routing moves generated signal samples. They may be adjacent in a DAW but are different paths.
 
 ```text

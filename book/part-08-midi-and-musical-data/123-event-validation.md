@@ -1,5 +1,7 @@
 # Chapter 123 — Event Validation
 
+![Chapter 123](../../images/chapters/123.png)
+
 Validation checks supported event type, nonnegative ticks, channel 0–15, note/velocity/controller/value data 0–127, signed pitch-bend range, and declared destination. It reports rather than clamps.
 
 ```text

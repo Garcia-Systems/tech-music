@@ -1,5 +1,7 @@
 # Chapter 103 — DSP Testing
 
+![Chapter 103](../../images/chapters/103.png)
+
 ## Hear → see → describe
 
 Tests use known input → expected output, impulses, sine tones, properties, response measurements, bounds, tolerances, and regression fixtures. Exact gain scaling is objective; low-pass attenuation is measurable; no automated assertion proves reverb is artistically pleasing.

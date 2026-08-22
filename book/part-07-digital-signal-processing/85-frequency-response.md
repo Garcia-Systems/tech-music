@@ -1,5 +1,7 @@
 # Chapter 85 — Frequency Response
 
+![Chapter 85](../../images/chapters/85.png)
+
 ## Hear → see → describe
 
 Magnitude response reports gain versus frequency. Cutoff and attenuation describe a system measurably; resonance can create a peak. Feed known sine tones at constant input amplitude, discard startup, and calculate output RMS/input RMS for each frequency.

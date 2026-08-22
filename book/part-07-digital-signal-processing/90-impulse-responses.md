@@ -1,5 +1,7 @@
 # Chapter 90 — Impulse Responses
 
+![Chapter 90](../../images/chapters/90.png)
+
 ## Hear → see → describe
 
 An impulse is one nonzero sample followed by zeros. For a linear time-invariant system, its output—the impulse response—characterizes how the system reacts to shifted, scaled inputs. The synthetic response here encodes direct sound and two reflections.

@@ -1,5 +1,7 @@
 # Chapter 99 — Effects Chains
 
+![Chapter 99](../../images/chapters/99.png)
+
 ## Hear → see → describe
 
 An effects chain is function composition: source → gain → filter → distortion → delay → output. Order matters because nonlinear and stateful stages generally do not commute. A processing graph generalizes the chain to branches and buses.

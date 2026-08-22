@@ -1,5 +1,7 @@
 # Chapter 116 — Swing and Timing Transformation
 
+![Chapter 116](../../images/chapters/116.png)
+
 Swing can be modeled as a timing transformation on selected subdivisions, but there is no single universal swing formula. Our educational function leaves even subdivisions straight and delays odd ones to two-thirds through each pair: a simple 2:1 long–short model.
 
 `straight.wav` and `swung.wav` use the same pitches and synth. `swing.svg` plots the original and transformed tick positions. The function intentionally accepts an explicit amount from 0.5 (straight) to less than 1. It does not claim to reproduce a particular musician, DAW groove template, dynamics, or articulation.

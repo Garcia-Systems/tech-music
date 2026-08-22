@@ -1,5 +1,7 @@
 # Chapter 118 — MIDI Files
 
+![Chapter 118](../../images/chapters/118.png)
+
 A **Standard MIDI File** stores structured event and timing data for interchange. Conceptually it has a header and one or more track chunks; track events use delta times, while meta-events can provide tempo and other non-channel information. It is not an audio recording.
 
 The lab writes `phrase.mid`, reloads it in the automated test, and verifies ticks, types, channels, notes, velocities, and CC data. The dependency-free adapter is intentionally limited to SMF format 0, PPQ division, one tempo meta-event, note messages, CC, and end-of-track. It is pedagogically justified so the repository runs offline; it is **not a general parser** (no running status, SMPTE division, SysEx, or arbitrary meta/channel messages). Use a maintained full MIDI library for untrusted/general files.

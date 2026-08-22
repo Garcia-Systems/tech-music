@@ -1,5 +1,7 @@
 # Chapter 98 — The Short-Time Fourier Transform
 
+![Chapter 98](../../images/chapters/98.png)
+
 ## Hear → see → describe
 
 Music changes, so one whole-file DFT hides when components occur. The STFT divides audio into overlapping windows, applies a window and FFT to each, and arranges spectra over time as a spectrogram.
