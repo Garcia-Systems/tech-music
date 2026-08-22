@@ -1,5 +1,7 @@
 # Chapter 113 — Sequencers
 
+![Chapter 113](../../images/chapters/113.png)
+
 A **sequencer** organizes and schedules events over time. Its vocabulary includes an event list, timeline, patterns and loops, transport state, playback position, and scheduling. This chapter's system is offline: `events + tempo map → ScheduledEvent` records; no real-time callback is claimed.
 
 The scheduler validates, sorts deterministically, converts ticks through the tempo map, and passes events to a channel router. The router creates synth note lifecycles and generates audio. This extends the event lists of [Part III](../part-03-building-electronic-music/README.md) and the track/timeline model of [Part IV](../part-04-the-digital-audio-workstation/README.md). Run `examples/part_08_midi.py`; `phrase-events.json`, `phrase.mid`, and the patch renders are multiple outputs from one phrase.

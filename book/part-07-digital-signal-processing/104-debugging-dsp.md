@@ -1,5 +1,7 @@
 # Chapter 104 — Debugging DSP
 
+![Chapter 104](../../images/chapters/104.png)
+
 ## Hear → see → describe
 
 Use the same loop for every fault: **Symptom → Evidence → Hypotheses → Investigation → Root Cause → Fix → Verification**. Keep intermediate buffers and units observable.

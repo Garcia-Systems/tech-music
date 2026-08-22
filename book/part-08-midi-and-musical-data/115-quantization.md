@@ -1,5 +1,7 @@
 # Chapter 115 — Quantization
 
+![Chapter 115](../../images/chapters/115.png)
+
 Quantization moves event positions toward a grid. `quantize_tick` finds the nearest declared grid point and interpolates by `strength`: 0 preserves timing and 1 fully snaps. The half-up tie policy is explicit and deterministic.
 
 The generator starts at ticks 25, 445, 1002, and 1405, produces full 120-tick-grid positions, plots both in `quantization.svg`, and renders `unquantized.wav` and `quantized.wav`. Quantization is a transformation, not an automatic improvement: it can remove meaningful microtiming.

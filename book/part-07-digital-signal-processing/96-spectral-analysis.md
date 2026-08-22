@@ -1,5 +1,7 @@
 # Chapter 96 — Spectral Analysis
 
+![Chapter 96](../../images/chapters/96.png)
+
 ## Hear → see → describe
 
 A spectrum displays DFT bins. With an `N`-sample window, simple bin spacing is `frequency_resolution = sample_rate / N`: hertz equals samples/second divided by samples. Longer windows narrow bin spacing but observe more time.

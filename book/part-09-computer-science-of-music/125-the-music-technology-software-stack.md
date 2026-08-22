@@ -1,5 +1,7 @@
 # Chapter 125 — The Music Technology Software Stack
 
+![Chapter 125](../../images/chapters/125.png)
+
 A music system is a pipeline of responsibilities, not one giant algorithm. The conceptual stack is musician → UI → session model → sequencer/events → instruments → DSP → routing/mixing → audio engine → OS/driver → interface → speakers. Real products split and combine these layers differently. An interface lets a layer say *what* it supplies without exposing *how*: abstraction and modularity make replacement, testing, and fault isolation possible.
 
 ```mermaid

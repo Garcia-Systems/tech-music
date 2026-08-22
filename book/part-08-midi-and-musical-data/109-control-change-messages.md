@@ -1,5 +1,7 @@
 # Chapter 109 — Control Change Messages
 
+![Chapter 109](../../images/chapters/109.png)
+
 A MIDI 1.0 **Control Change** channel message carries a controller number and value. In this part both are 7-bit values (0–127). The receiver's mapping turns those numbers into meaning. Standardized/common assignments can improve interoperability, but devices may support subsets and configurable mappings; never infer that every controller controls the same parameter everywhere.
 
 The executable router declares mappings rather than hiding them: CC 7 → educational patch amplitude and CC 74 → cutoff. `controller-curve.svg` plots the source values; `controller-amplitude.wav` renders the chosen amplitude response. The CC values are control data, not an audio envelope.

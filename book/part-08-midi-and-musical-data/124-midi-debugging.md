@@ -1,5 +1,7 @@
 # Chapter 124 — MIDI Debugging
 
+![Chapter 124](../../images/chapters/124.png)
+
 Use **Symptom → Evidence → Hypotheses → Investigation → Root Cause → Fix → Verification** for every case.
 
 | Symptom | Evidence / likely boundary | Root cause and verification |

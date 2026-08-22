@@ -1,5 +1,7 @@
 # Chapter 122 — Event Ordering and Scheduling
 
+![Chapter 122](../../images/chapters/122.png)
+
 Events can share a timestamp. The capstone policy is `(tick, type priority, track, source order)`: program changes, CC, pitch bend, note-off, then note-on. This allows setup before attack and releases an old same-pitch voice before retriggering. It is an educational policy, not a universal protocol mandate.
 
 `schedule` produces identical results even when its input iterable is reversed because the explicit keys decide ties. **Debugging:** if note-on precedes its same-time note-off, a receiver keyed only by channel/note can immediately stop the new voice. Log the sorted event tuple and test the collision directly.

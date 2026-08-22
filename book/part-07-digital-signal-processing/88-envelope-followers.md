@@ -1,5 +1,7 @@
 # Chapter 88 — Envelope Followers
 
+![Chapter 88](../../images/chapters/88.png)
+
 ## Hear → see → describe
 
 An envelope follower turns a rapidly alternating waveform into slowly varying control data. It rectifies with `abs`, then smooths with distinct attack and release coefficients. Compressors, meters, modulation, and effects can consume that control signal.

@@ -1,5 +1,7 @@
 # Chapter 117 — Tempo Maps
 
+![Chapter 117](../../images/chapters/117.png)
+
 A piece need not remain at one BPM. A **tempo map** is an ordered set of tempo events; musical positions after each change must integrate every preceding segment. `tick_to_seconds` treats tempo as piecewise constant.
 
 At PPQ 480, tick 960 under `{0:120, 480:60}` occurs after 0.5 seconds for the first beat plus 1 second for the second: 1.5 seconds. `tempo-map.svg` plots a short change. **Debugging:** applying the initial 120 BPM to all 960 ticks gives 1.0 second. Test at the boundary and one beat after it.

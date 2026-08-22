@@ -1,5 +1,7 @@
 # Chapter 105 — What Is MIDI?
 
+![Chapter 105](../../images/chapters/105.png)
+
 MIDI—**Musical Instrument Digital Interface**—is a family of specifications for exchanging musical performance and control information among hardware and software. A message can describe an action such as “play note 60 with velocity 90”; it is not a recording of what that action sounds like. The receiving device, software instrument, mapping, and patch determine the result.
 
 ```text

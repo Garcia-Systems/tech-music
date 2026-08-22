@@ -1,5 +1,7 @@
 # Chapter 92 — Time Domain and Frequency Domain
 
+![Chapter 92](../../images/chapters/92.png)
+
 ## Hear → see → describe
 
 The time domain shows amplitude over time. The frequency domain shows complex frequency components: magnitude and phase. They are two views of the same finite observations, useful for different questions.

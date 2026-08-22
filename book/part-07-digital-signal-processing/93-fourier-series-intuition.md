@@ -1,5 +1,7 @@
 # Chapter 93 — Fourier Series Intuition
 
+![Chapter 93](../../images/chapters/93.png)
+
 ## Hear → see → describe
 
 A periodic waveform can be approximated by adding sinusoids. Hear a fundamental, then add integer-multiple harmonics. Each addition changes shape and timbre; Part V called this additive synthesis.

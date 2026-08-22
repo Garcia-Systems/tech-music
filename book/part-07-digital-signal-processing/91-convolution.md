@@ -1,5 +1,7 @@
 # Chapter 91 — Convolution
 
+![Chapter 91](../../images/chapters/91.png)
+
 ## Hear → see → describe
 
 Discrete convolution is `y[n] = Σ_k x[k] h[n-k]`. `x` is input, `h` is a kernel/impulse response, and each output sample is a multiply-and-sum over aligned shifts. For `x=[1,2,0]`, `h=[1,0.5]`: `y[0]=1`, `y[1]=0.5+2=2.5`, `y[2]=1`, `y[3]=0`.
