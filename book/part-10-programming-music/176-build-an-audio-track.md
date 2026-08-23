@@ -1,5 +1,7 @@
 # Chapter 176 — Build an Audio Track
 
+![Chapter 176](../../images/chapters/176.png)
+
 ## Build boundary
 
 A track is session data: event source, patch reference, processor list, gain, mute state, and routes. This keeps event rendering, DSP, and routing boundaries visible rather than building a large class.

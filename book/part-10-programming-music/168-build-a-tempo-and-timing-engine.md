@@ -1,5 +1,7 @@
 # Chapter 168 — Build a Tempo and Timing Engine
 
+![Chapter 168](../../images/chapters/168.png)
+
 ## Build boundary
 
 `Tempo` names every conversion boundary: beats, ticks, seconds, and sample offsets. A value in seconds passed as a sample offset is numerically valid but dimensionally wrong, so names and tests are the defense.

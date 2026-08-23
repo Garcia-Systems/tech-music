@@ -1,5 +1,7 @@
 # Chapter 188 — Build a Command-Line Music Application
 
+![Chapter 188](../../images/chapters/188.png)
+
 ## Build boundary
 
 The `tech-music` entry point offers `validate`, `inspect`, `render`, and `plot`. `argparse` keeps command help and failures small; this is an educational offline tool, not a DAW.

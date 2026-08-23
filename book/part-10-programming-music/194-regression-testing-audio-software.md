@@ -1,5 +1,7 @@
 # Chapter 194 — Regression Testing Audio Software
 
+![Chapter 194](../../images/chapters/194.png)
+
 ## Build boundary
 
 Use exact comparison for pure gain and deterministic scheduling; use tolerance/statistics for floating DSP or cross-library renders. The delay impulse is a compact known response and peak/RMS are useful coarse sentinels.

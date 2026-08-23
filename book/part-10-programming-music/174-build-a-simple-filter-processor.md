@@ -1,5 +1,7 @@
 # Chapter 174 — Build a Simple Filter Processor
 
+![Chapter 174](../../images/chapters/174.png)
+
 ## Build boundary
 
 `OnePoleLowPass.from_cutoff` converts cutoff hertz and sample rate to a coefficient, then preserves one state sample. Passing hertz as an already-normalized coefficient is the deliberate unit bug.

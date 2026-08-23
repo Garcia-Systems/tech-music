@@ -1,5 +1,7 @@
 # Chapter 134 — Sample-Accurate Scheduling
 
+![Chapter 134](../../images/chapters/134.png)
+
 Block-level scheduling changes state only at boundaries. Sample-level scheduling processes samples 0–119, applies an event at offset 120, then processes 120–255. Snapping introduces up to nearly one block of jitter; its audible importance depends on rate, block size, and material.
 
 Tests assert onset position and distinguish the two renders.

@@ -1,5 +1,7 @@
 # Chapter 132 — Message Passing
 
+![Chapter 132](../../images/chapters/132.png)
+
 A command such as `set_parameter(cutoff, 1200)` decouples producer from consumer. A timestamp plus sequence number preserves deterministic ordering. `MessageQueue` supports note-on, note-off, parameter, and bypass-shaped commands without pretending to be a production event bus.
 
 ```mermaid

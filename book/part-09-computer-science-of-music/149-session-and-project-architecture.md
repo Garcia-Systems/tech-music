@@ -1,5 +1,7 @@
 # Chapter 149 — Session and Project Architecture
 
+![Chapter 149](../../images/chapters/149.png)
+
 A session owns a tempo map, tracks, regions, plugins, automation, routing graph, and metadata. Durable IDs connect objects across save/load; references need validation; ownership determines lifecycle. The Part IV session model is the musical view, while this chapter exposes its software boundaries.
 
 ```mermaid

@@ -1,5 +1,7 @@
 # Chapter 137 — Dropouts, Underruns, and Glitches
 
+![Chapter 137](../../images/chapters/137.png)
+
 When output is not ready, listeners may hear a dropout or glitch; APIs may report underrun, overrun, or xrun depending on direction and context. These terms overlap but are not perfect synonyms. Processing spikes let a numerically correct algorithm miss deadlines, separating algorithmic from timing correctness.
 
 The simulator records every miss instead of hiding it in an average.

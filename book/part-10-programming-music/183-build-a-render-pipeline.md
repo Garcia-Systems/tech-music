@@ -1,5 +1,7 @@
 # Chapter 183 — Build a Render Pipeline
 
+![Chapter 183](../../images/chapters/183.png)
+
 ## Build boundary
 
 The high-level path is load → validate → schedule/render voices → track DSP → routing/buses → master → WAV. Run `tech-music render data/part-10-project.json output.wav`.

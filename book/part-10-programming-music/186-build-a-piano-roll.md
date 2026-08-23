@@ -1,5 +1,7 @@
 # Chapter 186 — Build a Piano Roll
 
+![Chapter 186](../../images/chapters/186.png)
+
 ## Build boundary
 
 The piano-roll SVG maps start beat to x, MIDI pitch to y, and duration to width. It is a static inspection view—not an interactive editor—and preserves the event data’s meaning.

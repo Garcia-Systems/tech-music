@@ -1,5 +1,7 @@
 # Chapter 175 — Build a DSP Chain
 
+![Chapter 175](../../images/chapters/175.png)
+
 ## Build boundary
 
 `DSPRack` builds configurable gain, filter, distortion, and delay stages. Compare distortion→filter with filter→distortion: nonlinear processing creates harmonics, so composition order changes sound.

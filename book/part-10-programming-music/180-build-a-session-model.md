@@ -1,5 +1,7 @@
 # Chapter 180 — Build a Session Model
 
+![Chapter 180](../../images/chapters/180.png)
+
 ## Build boundary
 
 The JSON session owns schema version, metadata, tempo, sample rate, duration, patches, tracks, buses, routes, processors, and automation. IDs are references, not copies of components.

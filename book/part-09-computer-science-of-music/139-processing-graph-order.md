@@ -1,5 +1,7 @@
 # Chapter 139 — Processing Graph Order
 
+![Chapter 139](../../images/chapters/139.png)
+
 For A → B → C, B needs A's result and C needs B's. Kahn's topological-sort model counts incoming dependencies, repeatedly processes ready nodes, and detects missing endpoints or unresolved cycles. A disconnected node may still sort, so session validation must separately require a path to master.
 
 Invalid dependencies should fail with useful node names.

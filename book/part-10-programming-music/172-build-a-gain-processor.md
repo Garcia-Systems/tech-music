@@ -1,5 +1,7 @@
 # Chapter 172 — Build a Gain Processor
 
+![Chapter 172](../../images/chapters/172.png)
+
 ## Build boundary
 
 Gain is multiplication. Verify exact values with `[.25, -.5] → [.5, -1]` at gain 2. Applying both track gain and an accidental duplicate rack gain explains a quieter-than-expected signal.

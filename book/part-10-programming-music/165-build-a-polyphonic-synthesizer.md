@@ -1,5 +1,7 @@
 # Chapter 165 — Build a Polyphonic Synthesizer
 
+![Chapter 165](../../images/chapters/165.png)
+
 ## Build boundary
 
 `render_sequence` allocates one rendered buffer per note and sums overlap; `VoiceManager` demonstrates active-note lifecycle and stealing. Render MIDI [60,67], [60,64,67], then [60,64,67,71], checking duration and peak.

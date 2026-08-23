@@ -1,5 +1,7 @@
 # Chapter 136 — Latency vs CPU Tradeoffs
 
+![Chapter 136](../../images/chapters/136.png)
+
 Smaller blocks reduce each buffer's duration but increase callbacks per second (`R/N`) and fixed overhead frequency. Larger blocks offer more deadline time but add buffering latency. The simulation table uses 64, 128, 256, and 512 frames and reports duration, callback rate, processing load, and margin. Smaller is not always better.
 
 Choose from measured workload and interaction needs rather than folklore.

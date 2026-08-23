@@ -1,5 +1,7 @@
 # Chapter 150 — Serialization and Persistence
 
+![Chapter 150](../../images/chapters/150.png)
+
 JSON makes the educational schema inspectable. Persistence needs an explicit version, defaults, reference checks, and migrations for supported old versions. `Session.to_json/from_json` round-trips important state, rejects unsupported versions, and validates ranges. Parsing JSON is not itself semantic validation.
 
 Malformed and future schemas fail with structured, actionable messages.

@@ -1,5 +1,7 @@
 # Chapter 161 — How a Software Synthesizer Works Under the Hood
 
+![Chapter 161](../../images/chapters/161.png)
+
 Timestamped MIDI/events feed a queue and voice manager; voices combine oscillators, envelopes, filters, and modulation; effects and a voice mixer fill audio buffers. State persists across blocks, parameter updates cross ownership boundaries, and voice allocation handles finite polyphony. Yoshimi is a documented open-source comparison, not the blueprint for this mini engine.
 
 ```mermaid

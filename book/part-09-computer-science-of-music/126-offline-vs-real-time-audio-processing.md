@@ -1,5 +1,7 @@
 # Chapter 126 — Offline vs Real-Time Audio Processing
 
+![Chapter 126](../../images/chapters/126.png)
+
 Offline export may take longer than the music. A real-time path must compute the correct block **before** its playback deadline. For `N` frames at rate `R`, the theoretical block duration is `N/R` seconds; compare it with processing duration using `buffer_duration` and `simulate_deadlines`. This model describes deadlines, not Python's suitability for professional real-time audio.
 
 Correct-but-late is a timing failure even when every sample is numerically right.

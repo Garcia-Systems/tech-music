@@ -1,5 +1,7 @@
 # Chapter 145 — Linux Audio Architecture
 
+![Chapter 145](../../images/chapters/145.png)
+
 One possible Linux path is application → JACK-compatible or PipeWire API/server → ALSA kernel/userspace interface → driver → device. Applications may also use ALSA directly, and deployments vary. PipeWire documentation accessed 2026-08-21 describes a graph-based multimedia service; JACK and ALSA remain distinct projects and interfaces.
 
 ```mermaid

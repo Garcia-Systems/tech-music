@@ -1,5 +1,7 @@
 # Chapter 171 — Build a DSP Processor Interface
 
+![Chapter 171](../../images/chapters/171.png)
+
 ## Build boundary
 
 The common contract is intentionally only `process(samples) -> list[float]`. Stateful processors own history and may reset; `DSPRack` composes the same interface without making inheritance mandatory.

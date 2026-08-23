@@ -1,5 +1,7 @@
 # Chapter 182 — Build Project Validation
 
+![Chapter 182](../../images/chapters/182.png)
+
 ## Build boundary
 
 `validate_project` accumulates actionable diagnostics for tempo, IDs, patches, notes, velocities, processors, automation, routing, and cycles. It does not silently clamp or invent missing state.

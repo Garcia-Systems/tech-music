@@ -1,5 +1,7 @@
 # Chapter 128 — Audio Callbacks
 
+![Chapter 128](../../images/chapters/128.png)
+
 Many APIs conceptually request: “here is the next buffer; fill it before the deadline.” A teaching signature might be `process(input_buffer, output_buffer, frame_count)`, but APIs differ. The simulator logs index, frame range, processing duration, deadline, margin, and miss. Injecting a spike demonstrates an xrun-like deadline miss without claiming a hardware callback was run.
 
 ```mermaid

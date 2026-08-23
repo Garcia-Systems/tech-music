@@ -1,5 +1,7 @@
 # Chapter 179 — Build Buses and Routing
 
+![Chapter 179](../../images/chapters/179.png)
+
 ## Build boundary
 
 Routes are data edges. Tracks feed `music_bus`, the motif also sends to `delay_bus`, and buses reach master in topological order. A source with no edge is diagnosed as disconnected.

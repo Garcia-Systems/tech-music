@@ -1,5 +1,7 @@
 # Chapter 173 — Build a Delay Processor
 
+![Chapter 173](../../images/chapters/173.png)
+
 ## Build boundary
 
 `FeedbackDelay` owns a circular buffer, validates delay/feedback/mix, and persists across calls. The test splits an impulse across blocks; resetting between calls erases the delayed impulse.

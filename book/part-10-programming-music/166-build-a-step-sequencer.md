@@ -1,5 +1,7 @@
 # Chapter 166 — Build a Step Sequencer
 
+![Chapter 166](../../images/chapters/166.png)
+
 ## Build boundary
 
 `schedule_steps` converts any equal-length named grids into chronologically sorted trigger events and supports loops. Changing `enumerate(pattern)` to start at one demonstrates the off-by-one boundary bug.

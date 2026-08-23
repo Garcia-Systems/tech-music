@@ -1,5 +1,7 @@
 # Chapter 184 — Build Diagnostic Tools
 
+![Chapter 184](../../images/chapters/184.png)
+
 ## Build boundary
 
 `diagnostic_text` reports title, tracks, events, routes, validation, duration, peak, RMS, clipping, and measured offline render time. Inspecting before rendering narrows the search space.

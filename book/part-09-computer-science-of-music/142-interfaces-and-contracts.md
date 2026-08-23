@@ -1,5 +1,7 @@
 # Chapter 142 — Interfaces and Contracts
 
+![Chapter 142](../../images/chapters/142.png)
+
 Host and plugin must agree on lifecycle, function signatures, sample format, block constraints, parameter IDs, errors, and version negotiation. Stable IDs matter more than labels. Dependency inversion lets the host depend on a contract rather than a particular effect implementation.
 
 Reject unsupported data explicitly; never silently reinterpret it.

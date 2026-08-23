@@ -1,5 +1,7 @@
 # Chapter 141 — Plugin Architecture
 
+![Chapter 141](../../images/chapters/141.png)
+
 A host discovers a plugin, negotiates an interface, creates/activates it, supplies audio and events, manages parameters/state/UI, then deactivates and destroys it. LV2, VST 3, Audio Unit, and CLAP illustrate different contracts; they are examples, not interchangeable wrappers. Versioned official specifications are the authority.
 
 ```mermaid

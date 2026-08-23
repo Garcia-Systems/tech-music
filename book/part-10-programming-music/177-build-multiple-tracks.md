@@ -1,5 +1,7 @@
 # Chapter 177 — Build Multiple Tracks
 
+![Chapter 177](../../images/chapters/177.png)
+
 ## Build boundary
 
 The capstone keeps drums, bass, harmony, and motif in separate track objects. Toggle `mute` to compare layers; deleting or changing one route reproduces the wrong-destination failure.

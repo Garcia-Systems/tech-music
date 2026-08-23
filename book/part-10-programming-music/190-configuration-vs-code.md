@@ -1,5 +1,7 @@
 # Chapter 190 — Configuration vs Code
 
+![Chapter 190](../../images/chapters/190.png)
+
 ## Build boundary
 
 Engine behavior belongs in tested Python; musical content, patch choices, routing, and automation belong in project JSON. A bass-line edit therefore does not require editing or redeploying the renderer.
