@@ -1,5 +1,7 @@
 # Chapter 200 — The Computer
 
+![Chapter 200](../../images/chapters/200.png)
+
 > **Status:** reviewed educational model. Hardware behavior is not probed.
 
 The computer hosts the music system. Its **CPU** executes synthesis, DSP, mixing, and application logic. **RAM** holds active code, session state, buffers, caches, and sample pages. **Storage** retains projects, recordings, samples, and backups. Buses move data among CPU, memory, and devices; USB is one peripheral interconnect, not a synonym for audio or MIDI. The operating system schedules processes and exposes devices through APIs and drivers.

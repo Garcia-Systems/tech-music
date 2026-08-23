@@ -1,5 +1,7 @@
 # Chapter 252 — Generative Rhythm
 
+![Chapter 252](../../images/chapters/252.png)
+
 ## Model
 
 Per-step probability controls whether a drum fires; mutation flips or moves selected steps; fill probability can rise near a section boundary. Density, variation, and accent controls should be independent. Test pulse counts, step counts, bounds, and seed behavior rather than declaring one groove “correct.”

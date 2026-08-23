@@ -1,5 +1,7 @@
 # Chapter 290 — AI as Software System
 
+![Chapter 290](../../images/chapters/290.png)
+
 ## Model
 
 Treat the pipeline as `user → interface → input → model/rules → representation → renderer → DSP → output`. At every boundary specify schema, state, version, latency, failure, probabilistic choices, validation, and observability. AI is one component in the same software architecture studied in Parts IX–XI.

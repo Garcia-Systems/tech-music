@@ -1,5 +1,7 @@
 # Chapter 279 — Music for Software Environments
 
+![Chapter 279](../../images/chapters/279.png)
+
 ## Model
 
 A software environment could expose task transitions, user preference, time, or session state to an adaptive score. Privacy, interruption, latency, and consent are design constraints. The concept is a personalized listening interface; no evidence here claims it improves productivity.

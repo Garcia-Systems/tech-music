@@ -1,5 +1,7 @@
 # Chapter 275 — Diffusion Models for Audio
 
+![Chapter 275](../../images/chapters/275.png)
+
 ## Model
 
 Diffusion training corrupts data across noise levels and learns a denoising objective; sampling begins from noise and iterates a learned reverse process. Audio systems may apply this in waveform, spectrogram, or latent spaces. Diffusion is one family, not a synonym for generative audio.

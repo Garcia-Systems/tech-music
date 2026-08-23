@@ -1,5 +1,7 @@
 # Chapter 298 — Edge AI and Embedded Music Systems
 
+![Chapter 298](../../images/chapters/298.png)
+
 ## Model
 
 Smaller models may run on laptops, phones, instruments, or embedded devices. Quantization and reduced context can lower memory/compute, while accelerators change power and latency. Benchmark the target device and complete pipeline; model size alone does not establish real-time suitability.

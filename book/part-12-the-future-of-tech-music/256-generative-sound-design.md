@@ -1,5 +1,7 @@
 # Chapter 256 — Generative Sound Design
 
+![Chapter 256](../../images/chapters/256.png)
+
 ## Model
 
 Generating a patch is safe only when oscillator names, amplitude, envelopes, cutoff, and modulation remain valid for the renderer. Choose from known-safe presets or validate every generated field. An invalid cutoff or excessive gain must fail at the configuration boundary, not become unstable or clipped audio.

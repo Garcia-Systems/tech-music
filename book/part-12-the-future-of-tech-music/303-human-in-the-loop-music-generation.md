@@ -1,5 +1,7 @@
 # Chapter 303 — Human-in-the-Loop Music Generation
 
+![Chapter 303](../../images/chapters/303.png)
+
 ## Model
 
 `regenerate` supports accept/reject workflows by creating a new seed while optionally locking tempo or events. A UI can expose “keep rhythm,” “change melody,” and parameter edits. The loop is generation → human evaluation → constrained regeneration; history should preserve both rejected and accepted configurations when the user chooses.

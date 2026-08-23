@@ -1,5 +1,7 @@
 # Chapter 268 — Generative AI for Music
 
+![Chapter 268](../../images/chapters/268.png)
+
 ## Model
 
 Generative music research includes symbolic continuation, accompaniment, text-conditioned music, source transformation, and audio synthesis. Systems may generate events, spectrograms, waveforms, or codec tokens. Capabilities depend on model, data, conditioning, and evaluation; this chapter makes no product-availability promise.

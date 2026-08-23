@@ -1,5 +1,7 @@
 # Chapter 226 — Monitoring
 
+![Chapter 226](../../images/chapters/226.png)
+
 > **Status:** reviewed educational model. Hardware behavior is not probed.
 
 Monitoring means hearing a signal while recording or performing. Software monitoring makes the round trip `mic → interface/ADC → computer/DAW → interface/DAC → headphones`; its buffers and processing affect latency. Direct/hardware monitoring may split within an interface toward headphones while also sending input to the computer.

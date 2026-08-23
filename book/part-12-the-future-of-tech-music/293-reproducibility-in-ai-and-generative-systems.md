@@ -1,5 +1,7 @@
 # Chapter 293 — Reproducibility in AI and Generative Systems
 
+![Chapter 293](../../images/chapters/293.png)
+
 ## Model
 
 Archive seed, algorithm/model version, dependency versions, configuration, data identifiers, preprocessing, sampling settings, and hardware/backend notes. Hash inputs when appropriate. Seeds alone do not eliminate nondeterministic libraries or floating-point/platform differences; document the reproducibility boundary.

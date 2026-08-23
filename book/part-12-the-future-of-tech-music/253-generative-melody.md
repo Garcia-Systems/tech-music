@@ -1,5 +1,7 @@
 # Chapter 253 — Generative Melody
 
+![Chapter 253](../../images/chapters/253.png)
+
 ## Model
 
 Unconstrained pitch ignores register and memory. A constrained generator can select scale degrees, favor steps over leaps, keep a range, and occasionally recall a motif. These constraints produce traceable continuity, not guaranteed quality. The capstone logs each step/leap decision and validates pitch membership.

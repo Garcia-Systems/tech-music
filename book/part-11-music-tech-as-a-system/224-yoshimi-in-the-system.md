@@ -1,5 +1,7 @@
 # Chapter 224 — Yoshimi in the System
 
+![Chapter 224](../../images/chapters/224.png)
+
 > **Status:** reviewed educational model. Hardware behavior is not probed.
 
 Yoshimi is the software-synthesizer case study: MIDI/event input controls a synthesis engine whose digital audio outputs enter an audio-routing system, a DAW, or hardware path.

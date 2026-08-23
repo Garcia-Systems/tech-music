@@ -1,5 +1,7 @@
 # Chapter 219 — Linux Audio: ALSA
 
+![Chapter 219](../../images/chapters/219.png)
+
 > **Status:** reviewed educational model. Hardware behavior is not probed.
 
 ALSA supplies Linux kernel sound drivers and user-space library interfaces, including PCM and MIDI-related interfaces. Applications can use ALSA interfaces directly, while sound servers and routing systems may also use ALSA to reach hardware. ALSA is therefore not simply a desktop mixer or a single background server.

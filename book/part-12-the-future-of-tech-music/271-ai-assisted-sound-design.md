@@ -1,5 +1,7 @@
 # Chapter 271 — AI-Assisted Sound Design
 
+![Chapter 271](../../images/chapters/271.png)
+
 ## Model
 
 Manual design edits parameters directly; random search samples ranges; rule-based search applies constraints; learned systems recommend from data. Every path still needs safe parameter validation, preview level, undo, and provenance. A model suggestion cannot bypass the synth contract established in Part V.

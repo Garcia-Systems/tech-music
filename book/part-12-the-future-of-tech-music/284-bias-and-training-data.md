@@ -1,5 +1,7 @@
 # Chapter 284 — Bias and Training Data
 
+![Chapter 284](../../images/chapters/284.png)
+
 ## Model
 
 Learned behavior reflects collection, labels, representation, and objective. Genre, region, era, language, instrumentation, and recording quality may be uneven; metadata can encode errors or contested categories. Document coverage and missingness, obtain lawful data, and avoid treating a dataset as “music itself.”

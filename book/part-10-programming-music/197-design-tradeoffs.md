@@ -1,5 +1,7 @@
 # Chapter 197 — Design Tradeoffs
 
+![Chapter 197](../../images/chapters/197.png)
+
 ## Build boundary
 
 Functions make stateless transforms plain; classes make delay/filter ownership plain. Strict validation improves learning but rejects speculative extensions. Precomputation is simpler offline; readable O(tracks × frames) mixing is acceptable here.

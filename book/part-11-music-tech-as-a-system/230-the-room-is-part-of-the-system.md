@@ -1,5 +1,7 @@
 # Chapter 230 — The Room Is Part of the System
 
+![Chapter 230](../../images/chapters/230.png)
+
 > **Status:** reviewed educational model. Hardware behavior is not probed.
 
 The listener receives direct sound plus reflections from boundaries. Interference and room modes can make level vary by frequency and position; absorption changes reflected energy, and listening/source position changes the geometry.

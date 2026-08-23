@@ -1,5 +1,7 @@
 # Chapter 210 — Digital-to-Analog Conversion Revisited
 
+![Chapter 210](../../images/chapters/210.png)
+
 > **Status:** reviewed educational model. Hardware behavior is not probed.
 
 A DAC and its analog output stage turn a timed sample stream into a continuous electrical output suitable for downstream amplification. Reconstruction filtering is part of the conceptual path; the speaker does not simply receive an unchanged staircase drawn in a sampling lesson.

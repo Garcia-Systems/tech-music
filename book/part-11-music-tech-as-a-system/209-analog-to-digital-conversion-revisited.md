@@ -1,5 +1,7 @@
 # Chapter 209 — Analog-to-Digital Conversion Revisited
 
+![Chapter 209](../../images/chapters/209.png)
+
 > **Status:** reviewed educational model. Hardware behavior is not probed.
 
 An ADC receives a conditioned analog signal and produces numeric samples using a sample clock and quantization scheme. Part VI's sampled-number model explains representation; real converters additionally include analog conditioning, anti-alias filtering, clocking, reference circuitry, and implementation tradeoffs.

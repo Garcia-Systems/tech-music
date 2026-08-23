@@ -1,5 +1,7 @@
 # Chapter 286 — Authorship and Creative Credit
 
+![Chapter 286](../../images/chapters/286.png)
+
 ## Model
 
 Credit may involve performer, composer, prompt author, model/data creators, selector, editor, producer, and system designer. Different communities and legal systems may weigh those roles differently. Keep a decision log and disclose meaningful automation so collaborators can negotiate credit rather than inherit an invisible assumption.

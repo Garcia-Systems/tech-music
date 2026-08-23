@@ -1,5 +1,7 @@
 # Chapter 257 — Evolutionary Approaches
 
+![Chapter 257](../../images/chapters/257.png)
+
 ## Model
 
 Evolutionary computation mutates candidates and selects using a fitness function. A toy fitness such as `abs(target_density - pulse_count/steps)` tests a stated numeric target. It does **not** measure artistic worth: listener judgment is plural, contextual, and cannot be smuggled into one objective number.

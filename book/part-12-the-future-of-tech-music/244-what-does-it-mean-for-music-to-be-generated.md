@@ -1,5 +1,7 @@
 # Chapter 244 — What Does It Mean for Music to Be Generated?
 
+![Chapter 244](../../images/chapters/244.png)
+
 ## Model
 
 A sequencer executes authored events; a generator chooses at least one event, parameter, or structure. “Composed,” “procedural,” “random,” “model-generated,” “human-assisted,” and “AI-assisted” describe overlapping processes, not a clean authorship test. The useful question is which decisions are fixed, computed, sampled, learned, or supplied through interaction.

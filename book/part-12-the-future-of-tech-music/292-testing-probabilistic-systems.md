@@ -1,5 +1,7 @@
 # Chapter 292 — Testing Probabilistic Systems
 
+![Chapter 292](../../images/chapters/292.png)
+
 ## Model
 
 Use exact expected output only for a versioned deterministic algorithm. Otherwise fix seeds for replay and test invariants: valid pitches, ordered times, bounded duration, finite samples, legal distributions, and statistical tolerances over stated trials. Never “fix” a flaky test by widening an unexplained tolerance.

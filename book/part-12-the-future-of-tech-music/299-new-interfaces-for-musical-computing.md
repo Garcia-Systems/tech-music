@@ -1,5 +1,7 @@
 # Chapter 299 — New Interfaces for Musical Computing
 
+![Chapter 299](../../images/chapters/299.png)
+
 ## Model
 
 Gesture, cameras, motion/touch sensors, wearables, voice, and cautiously studied brain–computer interfaces can become control signals. Design calibration, accessibility, privacy, error recovery, feedback, and intentional mapping. Sensor correlation is not user intent, and this chapter makes no medical claim.

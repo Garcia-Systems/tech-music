@@ -1,5 +1,7 @@
 # Chapter 231 — Latency Across the Entire System
 
+![Chapter 231](../../images/chapters/231.png)
+
 > **Status:** reviewed educational model. Hardware behavior is not probed.
 
 Perceived response time can accumulate through sensing/conversion, transport, OS/driver scheduling, input buffering, software processing, output buffering, conversion, and acoustic travel. Buffer duration is `frames / sample_rate`; it is one contribution, not the entire round trip.

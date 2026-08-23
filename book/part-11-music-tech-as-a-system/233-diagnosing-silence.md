@@ -1,5 +1,7 @@
 # Chapter 233 — Diagnosing Silence
 
+![Chapter 233](../../images/chapters/233.png)
+
 > **Status:** reviewed educational model. Hardware behavior is not probed.
 
 Silence is a boundary-search problem. Begin with a known source and trace: source → event/input → application → instrument → DSP → route → master → audio service → interface → monitor. For MIDI ask “event here?”; for audio ask “meter/signal here?”; for software ask “expected state here?”

@@ -1,5 +1,7 @@
 # Chapter 263 — Neural Networks for Music
 
+![Chapter 263](../../images/chapters/263.png)
+
 ## Model
 
 A neural network maps inputs through weighted layers and nonlinear activations. Training adjusts weights to reduce a defined loss; inference applies fixed learned parameters to new input. A low loss measures that objective on that data, not cultural understanding or artistic merit.

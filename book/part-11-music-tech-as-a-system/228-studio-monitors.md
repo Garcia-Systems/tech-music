@@ -1,5 +1,7 @@
 # Chapter 228 — Studio Monitors
 
+![Chapter 228](../../images/chapters/228.png)
+
 > **Status:** reviewed educational model. Hardware behavior is not probed.
 
 Production monitors are used to judge recorded sound; they are not “perfectly flat” in every room. Their response, directivity, placement, listening position, boundaries, and room reflections interact.

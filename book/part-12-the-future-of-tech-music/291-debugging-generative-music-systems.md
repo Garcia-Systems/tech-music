@@ -1,5 +1,7 @@
 # Chapter 291 — Debugging Generative Music Systems
 
+![Chapter 291](../../images/chapters/291.png)
+
 ## Model
 
 Debug from evidence, not vibes. For each failure record **Symptom → Evidence → Hypotheses → Investigation → Root cause → Fix → Verification**. Check invalid range, missing seed, repetitive collapse, scale/tempo violations, feature-shape mismatch, train/test leakage, stochastic assertions, and clipped output independently.

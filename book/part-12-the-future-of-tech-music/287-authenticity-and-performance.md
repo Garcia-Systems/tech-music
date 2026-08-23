@@ -1,5 +1,7 @@
 # Chapter 287 — Authenticity and Performance
 
+![Chapter 287](../../images/chapters/287.png)
+
 ## Model
 
 Listeners may value precision or imperfection, liveness or repeatability, acoustic bodies or digital malleability. Physical and generated practices can coexist and combine. Authenticity is a relationship among work, process, presentation, and listener—not a datatype detectable by this engine.

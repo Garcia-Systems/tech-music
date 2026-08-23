@@ -1,5 +1,7 @@
 # Chapter 213 — Computer Keyboards as Musical Controllers
 
+![Chapter 213](../../images/chapters/213.png)
+
 > **Status:** reviewed educational model. Hardware behavior is not probed.
 
 An ordinary keyboard demonstrates input abstraction without special hardware: application key events can map `A S D F G` to `C4 D4 E4 F4 G4`. This mapping is a policy, not a physical property of keys.

@@ -1,5 +1,7 @@
 # Chapter 211 — Sample Clocks
 
+![Chapter 211](../../images/chapters/211.png)
+
 > **Status:** reviewed educational model. Hardware behavior is not probed.
 
 A sample clock supplies the timing reference for conversion. One device producing 48,000 samples per nominal second and another consuming according to an unrelated clock can drift unless the system provides synchronization or rate adaptation. Digital-device configurations therefore identify a clock source as well as a nominal sample rate.

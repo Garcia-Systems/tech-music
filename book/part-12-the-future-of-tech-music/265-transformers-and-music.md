@@ -1,5 +1,7 @@
 # Chapter 265 — Transformers and Music
 
+![Chapter 265](../../images/chapters/265.png)
+
 ## Model
 
 Transformers represent tokens, build contextual representations with attention, and often learn next-token prediction. For music, context may include notes, time shifts, bars, or codec tokens. Attention improves access to context but context windows, tokenization, data, and inference policy still constrain generation.

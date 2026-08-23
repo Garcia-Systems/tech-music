@@ -1,5 +1,7 @@
 # Chapter 278 — Interactive Music Systems
 
+![Chapter 278](../../images/chapters/278.png)
+
 ## Model
 
 Inputs can be actions, sensors, application events, time, or streams. Normalize them into typed events, update a state machine, then schedule musical changes safely. FOCUS, BREAK, ALERT, and COMPLETE should map explicitly to tempo/density/variation rather than hiding behavior in conditionals.

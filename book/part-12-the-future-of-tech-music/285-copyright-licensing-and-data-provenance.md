@@ -1,5 +1,7 @@
 # Chapter 285 — Copyright, Licensing, and Data Provenance
 
+![Chapter 285](../../images/chapters/285.png)
+
 ## Model
 
 Record the source, rights statement, license version, permitted uses, transformations, contributor consent where applicable, and identifiers for every dataset/model. Copyright can separately concern recordings and compositions; output questions and exceptions vary by jurisdiction. This is an engineering checklist, not legal advice; consult qualified counsel and current law.

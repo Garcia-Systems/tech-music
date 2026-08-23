@@ -1,5 +1,7 @@
 # Chapter 251 — Cellular and Pattern-Based Systems
 
+![Chapter 251](../../images/chapters/251.png)
+
 ## Model
 
 Cellular automata update cells from neighbors; rewriting replaces patterns recursively; Euclidean rhythms distribute a requested number of pulses across steps. `euclidean_pattern(5, 8)` offers one musically inspectable pattern. Rotation, accents, and instrumentation remain separate creative decisions.

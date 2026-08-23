@@ -1,5 +1,7 @@
 # Chapter 277 — Adaptive Music
 
+![Chapter 277](../../images/chapters/277.png)
+
 ## Model
 
 Adaptive music maps application state to musical parameters and playback decisions. Games, installations, exercise tools, and work-session tools can use the pattern `state → music logic → parameters → renderer`. Adaptation is a control design; “focus” is a user-named preset here, not a productivity claim.

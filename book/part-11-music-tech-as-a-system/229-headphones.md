@@ -1,5 +1,7 @@
 # Chapter 229 — Headphones
 
+![Chapter 229](../../images/chapters/229.png)
+
 > **Status:** reviewed educational model. Hardware behavior is not probed.
 
 Headphones offer isolation, portability, and a direct left/right presentation without the same loudspeaker-room path. They also differ from speakers in spatial presentation, fit, leakage/isolation, and listener-specific response.

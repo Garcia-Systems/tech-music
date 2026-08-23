@@ -1,5 +1,7 @@
 # Chapter 276 — Latent and Codec-Based Audio Representations
 
+![Chapter 276](../../images/chapters/276.png)
+
 ## Model
 
 An encoder can map audio to a compact continuous latent or discrete codec tokens; a generator operates there; a decoder reconstructs audio. Compression reduces sequence or compute demands but introduces a representation ceiling and reconstruction artifacts. This extends Part VI’s lesson that representation choices shape possible operations.

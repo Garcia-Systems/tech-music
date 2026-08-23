@@ -1,5 +1,7 @@
 # Chapter 306 — From Listener to Builder
 
+![Chapter 306](../../images/chapters/306.png)
+
 ## Model
 
 The opening observation—“I like this kind of music while I work”—can now be decomposed without diminishing it. The reader can describe rhythm/harmony, arrangement/DAW workflow, synthesis/samples, digital audio/DSP, MIDI/events, real-time software, hardware, and generative/adaptive control, then build and debug across those boundaries.

@@ -1,5 +1,7 @@
 # Chapter 202 — Memory and Music Workloads
 
+![Chapter 202](../../images/chapters/202.png)
+
 > **Status:** reviewed educational model. Hardware behavior is not probed.
 
 Storage capacity and working memory answer different questions. A 500 GB library can remain on disk while only selected sample pages, instrument state, waveform caches, buffers, plugin state, and undo history occupy RAM. Streaming trades memory use for storage I/O and scheduling work.
