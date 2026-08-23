@@ -1,5 +1,7 @@
 # Chapter 181 — Save and Load Projects
 
+![Chapter 181](../../images/chapters/181.png)
+
 ## Build boundary
 
 `load_project` and `save_project` use readable JSON with explicit schema version. Round-trip tests preserve the model; incompatible versions and invalid references return diagnostics rather than partial loading.

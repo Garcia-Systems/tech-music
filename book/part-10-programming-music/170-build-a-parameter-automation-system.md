@@ -1,5 +1,7 @@
 # Chapter 170 — Build a Parameter Automation System
 
+![Chapter 170](../../images/chapters/170.png)
+
 ## Build boundary
 
 `automation_value` linearly interpolates ordered points and holds endpoints. The capstone’s motif gain is driven from the session; validation rejects values outside [0,2] before processing.

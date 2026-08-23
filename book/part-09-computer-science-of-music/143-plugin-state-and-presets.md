@@ -1,5 +1,7 @@
 # Chapter 143 — Plugin State and Presets
 
+![Chapter 143](../../images/chapters/143.png)
+
 A host may store opaque plugin state or structured parameters. Restoration must handle schema versions, stable IDs, defaults, and missing plugins. A renamed parameter ID without migration can load “successfully” but sound wrong; validation should report incompatible versions and preserve recoverable unknown state where the contract allows.
 
 Preset portability is limited by the relevant plugin and host contracts.

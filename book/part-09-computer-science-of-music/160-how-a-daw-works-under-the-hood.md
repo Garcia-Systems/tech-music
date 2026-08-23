@@ -1,5 +1,7 @@
 # Chapter 160 — How a DAW Works Under the Hood
 
+![Chapter 160](../../images/chapters/160.png)
+
 A generalized educational DAW coordinates UI, session/timeline, scheduler, plugin host, disk prefetch, block engine, routing/mixer, persistence, and an audio API. Ardour is a useful real project comparison, but this is not a claim about Ardour's exact classes or every DAW.
 
 ```mermaid

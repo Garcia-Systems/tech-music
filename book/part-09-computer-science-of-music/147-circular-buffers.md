@@ -1,5 +1,7 @@
 # Chapter 147 — Circular Buffers
 
+![Chapter 147](../../images/chapters/147.png)
+
 A ring buffer reuses fixed capacity with read and write indices that wrap modulo capacity. It preserves FIFO order without shifting elements. `RingBuffer` distinguishes empty and full using a size count, validates capacity, and raises on underflow/overflow. Uses include streaming, thread handoff (with additional synchronization), and delay lines.
 
 ```text

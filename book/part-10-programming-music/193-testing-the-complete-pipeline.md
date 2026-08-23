@@ -1,5 +1,7 @@
 # Chapter 193 — Testing the Complete Pipeline
 
+![Chapter 193](../../images/chapters/193.png)
+
 ## Build boundary
 
 The pipeline test loads JSON, validates four tracks, renders with two block sizes, checks deterministic samples, writes WAV, and reopens its sample rate and frame count.

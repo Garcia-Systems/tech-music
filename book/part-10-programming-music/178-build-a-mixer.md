@@ -1,5 +1,7 @@
 # Chapter 178 — Build a Mixer
 
+![Chapter 178](../../images/chapters/178.png)
+
 ## Build boundary
 
 Each track renders independently, then buses sum frame-by-frame and the master gain is applied. Reports expose peak and clipping rather than silently normalizing, while mute produces zeros.

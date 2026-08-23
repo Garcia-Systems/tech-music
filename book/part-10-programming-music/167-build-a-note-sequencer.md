@@ -1,5 +1,7 @@
 # Chapter 167 — Build a Note Sequencer
 
+![Chapter 167](../../images/chapters/167.png)
+
 ## Build boundary
 
 Track events store `note`, `start_beat`, `duration_beats`, and `velocity`; patches separately define sound. Edit the JSON to make a bass line, chord pattern, and motif without changing renderer source.

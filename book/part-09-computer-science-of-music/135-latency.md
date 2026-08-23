@@ -1,5 +1,7 @@
 # Chapter 135 — Latency
 
+![Chapter 135](../../images/chapters/135.png)
+
 A conceptual end-to-end budget can include conversion, input buffering, processing, output buffering, and other system contributions. It is not one universal platform formula. `latency_budget` compares rate, frames, count of buffering contributions, and an explicit remainder; document what each term represents.
 
 ```mermaid

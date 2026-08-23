@@ -1,5 +1,7 @@
 # Chapter 129 — Why Real-Time Audio Is Different
 
+![Chapter 129](../../images/chapters/129.png)
+
 The audio path should avoid **unpredictable work**. Blocking disk/network I/O, contended locks, unbounded loops, verbose logging, and allocation or garbage-collection pauses can have runtime-dependent costs. This is not a universal ban: language, allocator, API, and implementation matter. Move uncertain work off the deadline path, preallocate where appropriate, and measure worst cases.
 
 JACK's process-thread documentation is a concrete platform example, not a rule describing every runtime.

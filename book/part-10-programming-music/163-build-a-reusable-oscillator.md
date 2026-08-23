@@ -1,5 +1,7 @@
 # Chapter 163 — Build a Reusable Oscillator
 
+![Chapter 163](../../images/chapters/163.png)
+
 ## Build boundary
 
 Part V already provides `oscillator`; reuse it rather than hiding a duplicate. Its waveform, amplitude, Nyquist, duration, and sample-rate checks make the parameter contract executable and its output deterministic.

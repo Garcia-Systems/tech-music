@@ -1,5 +1,7 @@
 # Chapter 133 — Event Queues and Scheduling
 
+![Chapter 133](../../images/chapters/133.png)
+
 Events carry sparse intent; audio buffers carry dense samples. A queue orders timestamps and exposes events due within a scheduling horizon. For a block `[1000,1256)`, an event at 1120 belongs at offset 120—not at 1000 or 1256. Half-open ranges prevent processing boundary events twice.
 
 The lab renders correct intra-buffer timing and deliberately snapped timing for comparison.

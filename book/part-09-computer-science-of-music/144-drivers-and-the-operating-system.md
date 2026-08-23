@@ -1,5 +1,7 @@
 # Chapter 144 — Drivers and the Operating System
 
+![Chapter 144](../../images/chapters/144.png)
+
 Below an engine are application APIs, an OS audio subsystem or server, device drivers, converters, and hardware. Core Audio, WASAPI, ALSA, JACK, and PipeWire occupy different roles and platforms, so no single diagram is universal. Architecture diagrams here show responsibility, not literal call stacks.
 
 Applications must discover capabilities and handle device changes and errors.

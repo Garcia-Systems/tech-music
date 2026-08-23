@@ -1,5 +1,7 @@
 # Chapter 138 — Routing as a Graph
 
+![Chapter 138](../../images/chapters/138.png)
+
 Tracks, buses, plugins, and outputs can be nodes; signal connections are directed edges. A path describes signal flow, a cycle returns to an earlier node, and a topological order exists only for a DAG. `RoutingGraph` validates endpoints and computes dependency order in `O(V+E)` apart from deterministic ready-node ordering.
 
 ```mermaid

@@ -1,5 +1,7 @@
 # Chapter 156 — Logging and Diagnostics
 
+![Chapter 156](../../images/chapters/156.png)
+
 Useful evidence includes event timelines, routing paths, block timing, clipping, CPU estimates, missing files, and parameter changes. Excessive synchronous logging can itself perturb a deadline. The lab builds an offline report from captured bounded records, separating capture from formatting.
 
 Diagnostics should include units, clocks, identifiers, and configuration.

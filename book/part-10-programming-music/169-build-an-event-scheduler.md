@@ -1,5 +1,7 @@
 # Chapter 169 — Build an Event Scheduler
 
+![Chapter 169](../../images/chapters/169.png)
+
 ## Build boundary
 
 Events are sorted by start beat before rendering. Stable input order resolves equal timestamps; Part IX’s `Message(order=...)` is the explicit scheduler form for note-off, note-on, and control priorities.

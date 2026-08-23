@@ -1,5 +1,7 @@
 # Chapter 185 — Build Waveform and Timeline Visualization
 
+![Chapter 185](../../images/chapters/185.png)
+
 ## Build boundary
 
 `plot_project` derives arrangement and waveform SVG from the same project and audio used for WAV. No second timeline model can drift out of sync.

@@ -1,5 +1,7 @@
 # Chapter 157 — Testing Music Software
 
+![Chapter 157](../../images/chapters/157.png)
+
 Unit tests cover calculations and buffers; integration tests connect scheduler and synth; end-to-end tests render a session. Property tests can check invariants, regression/golden tests protect known behavior, and validation tests exercise bad data. Golden audio needs documented tolerances and update review.
 
 A useful pyramid has many deterministic unit tests, fewer integration tests, and focused end-to-end renders.

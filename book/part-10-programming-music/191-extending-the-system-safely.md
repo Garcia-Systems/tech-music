@@ -1,5 +1,7 @@
 # Chapter 191 — Extending the System Safely
 
+![Chapter 191](../../images/chapters/191.png)
+
 ## Build boundary
 
 Add a processor by extending validation and `DSPRack`, document its units, and test old sessions first. Schema version 1 remains loadable; incompatible structural changes require a deliberate migration/version decision.

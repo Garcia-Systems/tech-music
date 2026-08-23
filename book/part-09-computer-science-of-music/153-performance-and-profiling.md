@@ -1,5 +1,7 @@
 # Chapter 153 — Performance and Profiling
 
+![Chapter 153](../../images/chapters/153.png)
+
 Correct code may still be too slow. Time representative DSP, profile hotspots, inspect CPU load and worst-case blocks, then optimize measured constraints. Averages can hide spikes. Python timing in this repository is an educational workload observation, never evidence of professional real-time safety.
 
 Measure before optimizing, and preserve regression tests while changing algorithms.

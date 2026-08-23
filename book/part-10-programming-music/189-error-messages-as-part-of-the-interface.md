@@ -1,5 +1,7 @@
 # Chapter 189 — Error Messages as Part of the Interface
 
+![Chapter 189](../../images/chapters/189.png)
+
 ## Build boundary
 
 Compare `Error.` with `Track "bass" routes to missing bus "music_bus".` Good errors identify component, bad value, contract, and likely repair; improve the broken project diagnostics without swallowing exceptions.

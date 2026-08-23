@@ -1,5 +1,7 @@
 # Chapter 146 — Memory in Audio Software
 
+![Chapter 146](../../images/chapters/146.png)
+
 Buffers, files, waveform caches, events, session objects, and plugin state have different lifetimes. Ownership answers who may mutate or release data; reuse can avoid repeated allocations in a time-critical path. Stack versus heap is implementation-specific and less useful than bounded lifetime and predictable access.
 
 An allocation is not inherently wrong, but its worst-case behavior may be unsuitable inside a deadline.

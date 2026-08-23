@@ -1,5 +1,7 @@
 # Chapter 155 — Error Handling
 
+![Chapter 155](../../images/chapters/155.png)
+
 Context determines strategy: report an invalid file to UI, preserve a missing-plugin placeholder, reject or contractually clamp a parameter, and record callback faults without opening a modal dialog on the audio path. `Session.validate` returns multiple structured messages so users can repair more than the first fault.
 
 Fault isolation keeps one missing resource from destroying recoverable project state.

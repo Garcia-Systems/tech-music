@@ -1,5 +1,7 @@
 # Chapter 152 — Determinism and Reproducibility
 
+![Chapter 152](../../images/chapters/152.png)
+
 Two offline renders should be reproducible when their contract demands it. Fix seeds, event ordering, initial DSP state, and inputs. Unseeded randomness, external plugins, concurrency, and platform floating-point differences can vary output. Determinism means defined inputs produce defined results—not universal bit identity across every implementation.
 
 The mini engine has no random source and tests identical serialized renders.

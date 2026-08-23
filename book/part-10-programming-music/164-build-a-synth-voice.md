@@ -1,5 +1,7 @@
 # Chapter 164 — Build a Synth Voice
 
+![Chapter 164](../../images/chapters/164.png)
+
 ## Build boundary
 
 `render_note` maps a MIDI note through pitch conversion, oscillator, ADSR gain, and the educational low-pass. Release reaches zero: deleting the release or ending on a nonzero sample recreates the click to diagnose.

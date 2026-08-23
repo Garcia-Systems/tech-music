@@ -1,5 +1,7 @@
 # Chapter 131 — Synchronization and Shared State
 
+![Chapter 131](../../images/chapters/131.png)
+
 If UI code mutates a multi-field parameter while audio reads it, audio can observe an impossible mixture. Options include atomic values where supported, immutable snapshots, single-owner message queues, or carefully scoped locks. “Lock-free” does not automatically mean correct or wait-free. The teaching engine prefers ownership and ordered messages.
 
 UI display state is not automatically the audio thread's parameter representation.

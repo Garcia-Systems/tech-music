@@ -1,5 +1,7 @@
 # Chapter 148 — File Streaming
 
+![Chapter 148](../../images/chapters/148.png)
+
 A DAW may stream large media instead of retaining every sample. A disk worker reads chunks, prefetches ahead, and caches useful regions; the deadline path consumes prepared buffers. The lab compares full-file loading with `process_file_chunks`, but it is not a production asynchronous streamer.
 
 Disk errors belong in diagnostics and recovery paths, not modal UI inside an audio callback.

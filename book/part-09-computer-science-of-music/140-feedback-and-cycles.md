@@ -1,5 +1,7 @@
 # Chapter 140 — Feedback and Cycles
 
+![Chapter 140](../../images/chapters/140.png)
+
 Intentional feedback means a simple DAG scheduler is insufficient. A delayed feedback path stores prior samples, making state and minimum delay part of the contract; an instantaneous algebraic loop may have no simple execution order. The educational graph rejects cycles rather than claiming to implement a general cyclic engine.
 
 Graph theory supplies vocabulary; audio-domain delay semantics supply the missing rule.

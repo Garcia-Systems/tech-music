@@ -1,5 +1,7 @@
 # Chapter 127 — Audio Buffers
 
+![Chapter 127](../../images/chapters/127.png)
+
 A sample is one channel value; a frame groups simultaneous channel samples; a block or buffer groups frames. Input and output buffers amortize callback overhead. At 48,000 frames/s, 256 frames last `256 / 48000 s = 0.005333 s ≈ 5.33 ms`. Smaller blocks mean more callbacks; larger blocks add buffering time. This connects to Part VII's block DSP.
 
 The lab varies block sizes and reports duration and callbacks per second.

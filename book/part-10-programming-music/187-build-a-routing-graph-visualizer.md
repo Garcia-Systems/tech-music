@@ -1,5 +1,7 @@
 # Chapter 187 — Build a Routing Graph Visualizer
 
+![Chapter 187](../../images/chapters/187.png)
+
 ## Build boundary
 
 The routing SVG uses track and bus IDs as nodes and session routes as edges. Validation runs first in the CLI, so missing endpoints are described rather than misleadingly drawn.

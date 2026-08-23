@@ -1,5 +1,7 @@
 # Chapter 158 — Real-Time Testing Challenges
 
+![Chapter 158](../../images/chapters/158.png)
+
 OS scheduling, load, devices, and timing jitter make wall-clock tests noisy. Deterministic offline tests establish signal logic; simulated deadlines establish accounting; appropriately instrumented target systems test actual real-time behavior. Unit tests alone cannot prove real-time safety.
 
 This repository performs the first two categories only.

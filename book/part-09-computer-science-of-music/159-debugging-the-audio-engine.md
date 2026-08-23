@@ -1,5 +1,7 @@
 # Chapter 159 — Debugging the Audio Engine
 
+![Chapter 159](../../images/chapters/159.png)
+
 Use the same chain for every case: **Symptom → Evidence → Hypotheses → Investigation → Root Cause → Fix → Verification**. Silence: inspect path-to-master. Glitches: block timing. Stuck note: note lifecycle. Jitter: intra-block offsets. Invalid state: ownership/messages. Missing audio: file IDs and stream logs. Broken restore: schema and stable IDs.
 
 Change one cause at a time and verify both samples and diagnostics.

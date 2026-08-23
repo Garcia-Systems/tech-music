@@ -1,5 +1,7 @@
 # Chapter 162 — Programming Sound from First Principles
 
+![Chapter 162](../../images/chapters/162.png)
+
 ## Build boundary
 
 Follow `frequency_hz → phase → samples → array → WAV`. The phase increment is `frequency_hz / sample_rate_hz`; the sample count is `round(duration_seconds * sample_rate_hz)`. Run `oscillator` and `write_wav`, then make A3 (220 Hz), A4 (440 Hz), and A5 (880 Hz).

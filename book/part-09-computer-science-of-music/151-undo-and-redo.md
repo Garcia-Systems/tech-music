@@ -1,5 +1,7 @@
 # Chapter 151 — Undo and Redo
 
+![Chapter 151](../../images/chapters/151.png)
+
 Users expect edits to be reversible. Commands can store `do` and inverse operations; snapshots trade memory for simplicity. `CommandHistory` executes, undoes, redoes, and clears redo after a divergent edit. Production commands must also preserve selection, references, and grouped transactions.
 
 ```mermaid

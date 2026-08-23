@@ -1,5 +1,7 @@
 # Chapter 192 — Refactoring Music Software
 
+![Chapter 192](../../images/chapters/192.png)
+
 ## Build boundary
 
 The implementation factors tempo conversion, validation, patch construction, fitting, rendering, diagnostics, and SVG output. Refactor behind end-to-end tests: change structure, not intended samples or messages.

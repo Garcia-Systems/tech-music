@@ -1,5 +1,7 @@
 # Chapter 154 — Algorithmic Complexity in Music Systems
 
+![Chapter 154](../../images/chapters/154.png)
+
 Processing N samples is often `O(N)`; naïve convolution is `O(NM)`; a direct DFT is `O(N²)` while an FFT is approximately `O(N log N)`; comparison sorting is typically `O(N log N)`; graph traversal is `O(V+E)`. Constants, memory access, and worst cases also matter.
 
 Complexity matters when input size can make work exceed a deadline or interaction budget.

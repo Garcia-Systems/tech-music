@@ -1,5 +1,7 @@
 # Chapter 130 — Threads and Concurrency
 
+![Chapter 130](../../images/chapters/130.png)
+
 UI, audio, disk streaming, MIDI input, and analysis have different schedules. Concurrent execution improves responsiveness but creates ordering and ownership problems. A race occurs when results depend on uncontrolled interleaving; reproduce it with a deterministic staged simulation rather than a flaky test.
 
 ```mermaid
