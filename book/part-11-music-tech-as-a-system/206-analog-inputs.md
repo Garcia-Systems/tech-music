@@ -1,5 +1,7 @@
 # Chapter 206 — Analog Inputs
 
+![Chapter 206](../../images/chapters/206.png)
+
 > **Status:** reviewed educational model. Hardware behavior is not probed.
 
 Microphone-, line-, and instrument-oriented inputs are designed for different source conditions; their exact levels and impedances are contextual, not universal constants. Gain scales the input before conversion. Too little usable signal can make noise prominent; too much can overload an analog stage or ADC; **headroom** is margin before overload.

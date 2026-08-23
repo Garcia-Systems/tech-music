@@ -1,5 +1,7 @@
 # Chapter 208 — Preamps and Gain Staging
 
+![Chapter 208](../../images/chapters/208.png)
+
 > **Status:** reviewed educational model. Hardware behavior is not probed.
 
 A microphone signal often needs preamplification before ADC. Input gain affects the wanted signal and analog noise reaching conversion; excessive level may clip before any DAW fader. A later fader changes an already converted stream and cannot undo analog clipping.

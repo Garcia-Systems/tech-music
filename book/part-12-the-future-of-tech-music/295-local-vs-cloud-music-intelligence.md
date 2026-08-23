@@ -1,5 +1,7 @@
 # Chapter 295 — Local vs Cloud Music Intelligence
 
+![Chapter 295](../../images/chapters/295.png)
+
 ## Model
 
 Local execution can support offline operation, data locality, predictable ownership, and latency control but is bounded by device compute, memory, and power. Cloud execution may offer larger resources but introduces network, service, privacy, authentication, cost, and version dependencies. Requirements decide; neither is universally better.

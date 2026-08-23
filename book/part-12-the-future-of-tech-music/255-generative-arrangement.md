@@ -1,5 +1,7 @@
 # Chapter 255 — Generative Arrangement
 
+![Chapter 255](../../images/chapters/255.png)
+
 ## Model
 
 Arrangement operates above notes. The capstone exports intro/body/outro records with start times and active layers, then generates events inside that form. This reconnects Part III’s layers and Part X’s session data: arrangement is serializable structure before it becomes sound.

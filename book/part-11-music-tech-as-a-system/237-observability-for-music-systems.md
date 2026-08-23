@@ -1,5 +1,7 @@
 # Chapter 237 — Observability for Music Systems
 
+![Chapter 237](../../images/chapters/237.png)
+
 > **Status:** reviewed educational model. Hardware behavior is not probed.
 
 Observability means obtaining evidence about internal state from outputs such as MIDI event monitors, audio meters, waveforms, routing graphs, CPU/load meters, xrun counters, logs, and device lists. Each observes only a boundary and may itself have latency or limited scope.

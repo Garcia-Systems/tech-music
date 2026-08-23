@@ -1,5 +1,7 @@
 # Chapter 283 — Evaluating Generative Systems
 
+![Chapter 283](../../images/chapters/283.png)
+
 ## Model
 
 Useful metrics include invalid-event count, duration error, pitch-set membership, unique-pattern rate, repetition, distribution distance, and classification precision/recall. Report each dimension and sampling configuration. Metrics are evidence about specified properties, not a composite ranking of musical value.

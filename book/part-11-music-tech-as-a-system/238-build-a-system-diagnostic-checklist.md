@@ -1,5 +1,7 @@
 # Chapter 238 — Build a System Diagnostic Checklist
 
+![Chapter 238](../../images/chapters/238.png)
+
 > **Status:** reviewed educational model. Hardware behavior is not probed.
 
 Use a reusable checklist rather than memory. **Input:** source, safe cable, correct input, gain. **Digital input:** device recognized, port, sample rate/clock, channel. **Software:** track/event meter, instrument, DSP, route, mute/solo. **Output:** master meter/destination, selected device, interface output, headphones/monitors.

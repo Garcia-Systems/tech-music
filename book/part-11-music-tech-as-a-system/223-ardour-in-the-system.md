@@ -1,5 +1,7 @@
 # Chapter 223 — Ardour in the System
 
+![Chapter 223](../../images/chapters/223.png)
+
 > **Status:** reviewed educational model. Hardware behavior is not probed.
 
 Ardour is the DAW case study: inputs enter tracks, processors transform streams, buses combine routes, the master feeds the selected audio system/device, and export writes a file. MIDI tracks may drive instruments while audio tracks carry sampled sound.

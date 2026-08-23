@@ -1,5 +1,7 @@
 # Chapter 260 — Features for Audio Machine Learning
 
+![Chapter 260](../../images/chapters/260.png)
+
 ## Model
 
 RMS summarizes energy; zero-crossing rate counts sign changes; spectral centroid is an energy-weighted frequency center; rolloff locates a chosen cumulative spectral proportion; MFCCs compact a perceptually motivated spectral envelope. Sine, saw, and noise differ in these measures, though no single feature identifies a sound reliably.

@@ -1,5 +1,7 @@
 # Chapter 246 — Deterministic Generative Music
 
+![Chapter 246](../../images/chapters/246.png)
+
 ## Model
 
 Determinism means the same algorithm, inputs, and implementation produce the same event sequence. A seed initializes pseudo-random state; it is not a promise across arbitrary library or algorithm versions. Reproducibility makes a failure shareable and permits exact regression tests. `generate(config) == generate(config)` is the executable experiment.

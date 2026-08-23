@@ -1,5 +1,7 @@
 # Chapter 274 — Audio Generation Models
 
+![Chapter 274](../../images/chapters/274.png)
+
 ## Model
 
 Audio generators may predict samples autoregressively, iteratively denoise representations, or generate discrete codec tokens decoded to sound. These approaches trade fidelity, sequence length, latency, and control differently. Research demonstrations do not by themselves establish a reliable deployed product.

@@ -1,5 +1,7 @@
 # Chapter 250 — Grammar and Rule-Based Music
 
+![Chapter 250](../../images/chapters/250.png)
+
 ## Model
 
 A grammar separates hierarchical form from event rendering: `TRACK → INTRO BODY OUTRO`; `BODY → A A B A`. Expansion chooses a section tree; later stages schedule phrases and notes. This resembles formal grammar rewriting without requiring a parser or implying that one grammar captures every musical culture.

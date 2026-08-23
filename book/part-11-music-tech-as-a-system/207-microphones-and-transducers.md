@@ -1,5 +1,7 @@
 # Chapter 207 — Microphones and Transducers
 
+![Chapter 207](../../images/chapters/207.png)
+
 > **Status:** reviewed educational model. Hardware behavior is not probed.
 
 A microphone is a transducer: acoustic pressure variations become an electrical signal. Dynamic and condenser microphones use different transduction approaches; condenser systems commonly require appropriate powering provided through supported equipment. Pickup pattern describes directional sensitivity and sensitivity relates incident sound to output under stated conditions.

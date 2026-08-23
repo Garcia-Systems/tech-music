@@ -1,5 +1,7 @@
 # Chapter 267 — Training vs Inference
 
+![Chapter 267](../../images/chapters/267.png)
+
 ## Model
 
 **Training** adjusts model parameters from data and a loss. **Inference** holds those parameters fixed while producing a prediction or generation from new context. Training normally needs datasets, optimization state, and evaluation; inference needs a versioned model, preprocessing contract, sampling configuration, and validated output.

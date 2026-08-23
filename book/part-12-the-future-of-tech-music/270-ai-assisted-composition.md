@@ -1,5 +1,7 @@
 # Chapter 270 — AI-Assisted Composition
 
+![Chapter 270](../../images/chapters/270.png)
+
 ## Model
 
 A practical loop is human idea → system suggestion → human selection → revision → arrangement → production. The person can retain motifs, reject output, edit harmony, and mix. Assistance redistributes initiative; it does not reduce musicianship to writing one prompt.

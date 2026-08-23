@@ -1,5 +1,7 @@
 # Chapter 261 — Classification Example
 
+![Chapter 261](../../images/chapters/261.png)
+
 ## Model
 
 A minimal classifier pipeline should synthesize labeled signals, split independent examples before fitting preprocessing, extract deterministic features, train, predict, and report a confusion matrix. Copying variants of one source into both splits is leakage: apparent accuracy then measures memorization or shared artifacts, not generalization.

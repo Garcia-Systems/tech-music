@@ -1,5 +1,7 @@
 # Chapter 305 — Final System Architecture
 
+![Chapter 305](../../images/chapters/305.png)
+
 ## Model
 
 ```text

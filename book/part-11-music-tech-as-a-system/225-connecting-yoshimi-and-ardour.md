@@ -1,5 +1,7 @@
 # Chapter 225 — Connecting Yoshimi and Ardour
 
+![Chapter 225](../../images/chapters/225.png)
+
 > **Status:** reviewed educational model. Hardware behavior is not probed.
 
 One workflow connects controller events to Yoshimi, then Yoshimi audio to an armed/routed Ardour track, through processing and master to the interface. Alternatives include hosting an instrument plugin in a DAW or sequencing an external synth while recording its audio, when supported.

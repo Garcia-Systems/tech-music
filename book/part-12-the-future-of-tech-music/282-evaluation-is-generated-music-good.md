@@ -1,5 +1,7 @@
 # Chapter 282 — Evaluation: Is Generated Music Good?
 
+![Chapter 282](../../images/chapters/282.png)
+
 ## Model
 
 Separate **technical** validity (ordered events, duration, headroom), **musical description** (density, repetition, variation, coherence), and **user response** (enjoyable, distracting, too active). The latter two require contextual human judgments. A passing suite proves contracts, never that music is good.

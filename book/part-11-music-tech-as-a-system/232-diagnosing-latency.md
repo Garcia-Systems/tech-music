@@ -1,5 +1,7 @@
 # Chapter 232 — Diagnosing Latency
 
+![Chapter 232](../../images/chapters/232.png)
+
 > **Status:** reviewed educational model. Hardware behavior is not probed.
 
 First define the symptom and path: controller-to-synth, mic software monitoring, or playback? Record configuration and establish a repeatable observation. Compare direct and software monitoring where safely available; bypass high-latency routes/plugins one at a time; inspect buffers, device, rate, system load, and xruns.

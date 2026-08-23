@@ -1,5 +1,7 @@
 # Chapter 239 — Designing a Music-Tech Workstation
 
+![Chapter 239](../../images/chapters/239.png)
+
 > **Status:** reviewed educational model. Hardware behavior is not probed.
 
 Design from capabilities: recording needs a suitable transducer/source path, conversion/interface, storage, DAW routing, and monitoring; MIDI performance needs a controller/event source and instrument; synthesis and DSP need software and sufficient real-time compute; mixing needs routes/meters; export needs deterministic file rendering.

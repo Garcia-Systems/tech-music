@@ -1,5 +1,7 @@
 # Chapter 294 — Explainability and Musical Systems
 
+![Chapter 294](../../images/chapters/294.png)
+
 ## Model
 
 Explicit rules can cite the branch taken; probabilistic systems can additionally report weights and sample state; learned systems may offer attribution or examples without a complete causal account. Explanations should be faithful to execution. Complexity may expand capability while reducing direct inspectability.

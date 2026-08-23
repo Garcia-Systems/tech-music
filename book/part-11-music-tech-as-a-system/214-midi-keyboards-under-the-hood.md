@@ -1,5 +1,7 @@
 # Chapter 214 — MIDI Keyboards Under the Hood
 
+![Chapter 214](../../images/chapters/214.png)
+
 > **Status:** reviewed educational model. Hardware behavior is not probed.
 
 A key press changes a sensor state. Controller electronics interpret it, form an event (often including note and velocity), transport it over MIDI or USB, and expose it through an operating-system port to an application and instrument.

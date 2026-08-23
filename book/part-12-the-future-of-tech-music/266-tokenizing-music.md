@@ -1,5 +1,7 @@
 # Chapter 266 — Tokenizing Music
 
+![Chapter 266](../../images/chapters/266.png)
+
 ## Model
 
 A token may mean note-on, note-off, time shift, velocity, chord, bar, or a learned audio-codec unit. Token design sets timing resolution and sequence length. `encode_events` and `decode_events` use five explicit tokens per note and round-trip deterministically; malformed order fails loudly.

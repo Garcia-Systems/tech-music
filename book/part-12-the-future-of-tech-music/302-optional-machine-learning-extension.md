@@ -1,5 +1,7 @@
 # Chapter 302 — Optional Machine Learning Extension
 
+![Chapter 302](../../images/chapters/302.png)
+
 ## Model
 
 The optional ML extension is intentionally conceptual because the project has no numeric/ML dependency. A future script may synthesize sine/saw/noise examples, split by source seed, extract RMS/ZCR/centroid, train a small classifier, and save outputs only under `generated/`. No dataset or model was downloaded or trained.

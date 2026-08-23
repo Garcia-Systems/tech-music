@@ -1,5 +1,7 @@
 # Chapter 245 — Algorithmic Composition
 
+![Chapter 245](../../images/chapters/245.png)
+
 ## Model
 
 Rules can choose scale degrees, repeat and transpose motifs, transform rhythm, alternate sections, or select harmonies. The deterministic lab is `examples/part_12_adaptive.py`: scale, seed, tempo range, density, and mode become structured `NoteEvent` values, an audio render, and an SVG piano roll under ignored `generated/` paths.

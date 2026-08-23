@@ -1,5 +1,7 @@
 # Chapter 264 — Embeddings and Musical Representation
 
+![Chapter 264](../../images/chapters/264.png)
+
 ## Model
 
 An embedding assigns an item or segment a vector. Distance may reflect relationships encouraged by the training objective and corpus—songs, chords, timbres, or artists can cluster—but axes do not automatically have stable human semantics. Inspect neighbors, bias, task validity, and out-of-distribution behavior.

@@ -1,5 +1,7 @@
 # Chapter 297 — Real-Time AI Music
 
+![Chapter 297](../../images/chapters/297.png)
+
 ## Model
 
 Offline generation may take longer than playback; near-real-time must remain usefully responsive; a real-time callback must meet every buffer deadline. Generate ahead, bound work, keep network calls off audio threads, and define behavior on misses. Musical deadlines reconnect directly to Part IX scheduling.

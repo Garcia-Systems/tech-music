@@ -1,5 +1,7 @@
 # Chapter 235 — Diagnosing Noise
 
+![Chapter 235](../../images/chapters/235.png)
+
 > **Status:** reviewed educational model. Hardware behavior is not probed.
 
 Noise may reflect weak wanted signal plus excessive later gain, environmental sound, a connection fault, software generation, or electromagnetic/grounding interaction. Labels such as “ground loop” are hypotheses, not diagnoses.

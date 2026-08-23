@@ -1,5 +1,7 @@
 # Chapter 195 — Debugging Across Layers
 
+![Chapter 195](../../images/chapters/195.png)
+
 ## Build boundary
 
 For a silent bass, inspect in order: event data → timing conversion → patch → voice buffer → DSP → mute/gain → track route → bus → master → WAV. Stop at the first boundary where expected evidence disappears.

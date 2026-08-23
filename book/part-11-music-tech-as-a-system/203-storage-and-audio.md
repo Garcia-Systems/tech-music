@@ -1,5 +1,7 @@
 # Chapter 203 — Storage and Audio
 
+![Chapter 203](../../images/chapters/203.png)
+
 > **Status:** reviewed educational model. Hardware behavior is not probed.
 
 Uncompressed integer PCM payload size is `duration × sample_rate × (bit_depth/8) × channels`. Sixty seconds of 48 kHz, 24-bit mono payload is 8,640,000 bytes; stereo doubles it and sixteen tracks multiply it by sixteen. Containers add headers/metadata; edits, peaks, autosaves, renders, and backups add project-level storage.

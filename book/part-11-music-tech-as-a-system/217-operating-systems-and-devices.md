@@ -1,5 +1,7 @@
 # Chapter 217 — Operating Systems and Devices
 
+![Chapter 217](../../images/chapters/217.png)
+
 > **Status:** reviewed educational model. Hardware behavior is not probed.
 
 Applications usually use an audio/MIDI API rather than manipulating hardware registers. The OS and services discover devices, enforce permissions, schedule work, and cooperate with drivers that implement device communication.

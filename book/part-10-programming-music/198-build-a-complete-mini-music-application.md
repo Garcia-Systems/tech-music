@@ -1,5 +1,7 @@
 # Chapter 198 — Build a Complete Mini Music Application
 
+![Chapter 198](../../images/chapters/198.png)
+
 ## Build boundary
 
 The capstone integrates project persistence, timing, polyphonic synthesis, track DSP, gain automation, sends, topological buses, mixing, WAV, diagnostics, and four SVG views. It crosses from using tools to building one while remaining deliberately small.

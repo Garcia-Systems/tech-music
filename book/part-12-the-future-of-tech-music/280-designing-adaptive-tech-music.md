@@ -1,5 +1,7 @@
 # Chapter 280 — Designing Adaptive Tech Music
 
+![Chapter 280](../../images/chapters/280.png)
+
 ## Model
 
 `AdaptiveConfig` exposes mode, tempo range, density, variation, duration, key/scale, and seed. `generate` combines preferences with documented presets and returns sections, events, patch choice, and decision traces. Control remains visible and reversible.

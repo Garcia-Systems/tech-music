@@ -1,5 +1,7 @@
 # Chapter 281 — Human Control and Automation
 
+![Chapter 281](../../images/chapters/281.png)
+
 ## Model
 
 Control spans manual → assisted → semi-automatic → adaptive → autonomous. Decide which choices the system may make, which remain locked, what the user can override, and when explanations appear. Automation should expose stop, regenerate, parameter limits, and provenance—not merely a confidence score.

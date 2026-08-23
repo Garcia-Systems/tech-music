@@ -1,5 +1,7 @@
 # Chapter 269 — Prompting Music Systems
 
+![Chapter 269](../../images/chapters/269.png)
+
 ## Model
 
 Prompts may describe instrumentation, structure, activity, or other constraints, but interpretation is system-specific. A transparent classroom simulation may map “sparse” to density and “steady” to variation. That mapping is ordinary parsing plus rules—not a foundation model—and unknown terms should remain visible.

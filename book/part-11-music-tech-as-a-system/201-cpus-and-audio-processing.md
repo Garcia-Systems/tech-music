@@ -1,5 +1,7 @@
 # Chapter 201 — CPUs and Audio Processing
 
+![Chapter 201](../../images/chapters/201.png)
+
 > **Status:** reviewed educational model. Hardware behavior is not probed.
 
 An audio engine receives a block and must produce the next block before playback consumes it. At 48 kHz, 480 frames span 10 ms. More voices, plugins, or costly algorithms generally consume more CPU time, but machine, build, scheduling, and workload all matter.

@@ -1,5 +1,7 @@
 # Chapter 227 — Speakers
 
+![Chapter 227](../../images/chapters/227.png)
+
 > **Status:** reviewed educational model. Hardware behavior is not probed.
 
 A loudspeaker system uses amplification and one or more drivers in an enclosure to turn an electrical signal into acoustic energy. Frequency response describes level versus frequency under stated measurement conditions; placement and room alter what reaches the listener.

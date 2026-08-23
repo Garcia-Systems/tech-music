@@ -1,5 +1,7 @@
 # Chapter 221 — Linux Audio: PipeWire
 
+![Chapter 221](../../images/chapters/221.png)
+
 > **Status:** reviewed educational model. Hardware behavior is not probed.
 
 PipeWire is a graph-based multimedia framework/service used for audio and video on Linux. It can provide compatibility/integration paths for applications using common Linux audio APIs, including JACK- and PulseAudio-oriented clients, depending on installed components and configuration.

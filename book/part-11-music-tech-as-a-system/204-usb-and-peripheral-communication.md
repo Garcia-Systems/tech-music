@@ -1,5 +1,7 @@
 # Chapter 204 — USB and Peripheral Communication
 
+![Chapter 204](../../images/chapters/204.png)
+
 > **Status:** reviewed educational model. Hardware behavior is not probed.
 
 USB has a host that schedules communication with connected devices. Device classes can support interoperable audio or MIDI behavior, while product-specific functions may need additional software. Nominal link bandwidth is not end-to-end latency: transfers, buffering, drivers, scheduling, conversion, and applications contribute separately.

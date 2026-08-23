@@ -1,5 +1,7 @@
 # Chapter 259 — Supervised Learning for Music
 
+![Chapter 259](../../images/chapters/259.png)
+
 ## Model
 
 Supervised learning pairs features with labels, fits parameters on training examples, predicts labels for held-out examples, then evaluates. Suitable teaching tasks include synthetic timbre classification or onset labeling. Part XII avoids downloads: any optional dataset is synthesized by repository code and is not evidence about real-world performance.

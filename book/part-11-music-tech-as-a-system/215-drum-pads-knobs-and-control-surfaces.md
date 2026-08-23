@@ -1,5 +1,7 @@
 # Chapter 215 — Drum Pads, Knobs, and Control Surfaces
 
+![Chapter 215](../../images/chapters/215.png)
+
 > **Status:** reviewed educational model. Hardware behavior is not probed.
 
 Physical forms can share an event abstraction: a pad may emit note and velocity; a knob a controller value; a fader a parameter value; a transport button a command. Software maps source identifiers and value ranges onto musical state.

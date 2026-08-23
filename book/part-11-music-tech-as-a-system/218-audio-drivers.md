@@ -1,5 +1,7 @@
 # Chapter 218 — Audio Drivers
 
+![Chapter 218](../../images/chapters/218.png)
+
 > **Status:** reviewed educational model. Hardware behavior is not probed.
 
 A driver mediates hardware operations and exposes supported streams, formats, timing, controls, and buffers through a platform interface. Applications or audio services negotiate configuration rather than assuming every device supports every sample rate or channel layout.

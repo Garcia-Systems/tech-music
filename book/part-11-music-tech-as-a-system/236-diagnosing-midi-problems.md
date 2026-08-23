@@ -1,5 +1,7 @@
 # Chapter 236 — Diagnosing MIDI Problems
 
+![Chapter 236](../../images/chapters/236.png)
+
 > **Status:** reviewed educational model. Hardware behavior is not probed.
 
 Trace controller → connection → OS device → MIDI port → channel/message → application → route/mapping → instrument. For no notes, find the first missing event. For wrong notes/instrument, inspect mapping, transpose, channel, patch/part. For stuck notes, observe note-on/note-off pairing and reset safely. For an unresponsive knob, inspect controller number/value and mapping.

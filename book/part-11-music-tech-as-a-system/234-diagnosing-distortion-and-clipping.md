@@ -1,5 +1,7 @@
 # Chapter 234 — Diagnosing Distortion and Clipping
 
+![Chapter 234](../../images/chapters/234.png)
+
 > **Status:** reviewed educational model. Hardware behavior is not probed.
 
 Distortion can originate at source/microphone, preamp, ADC, plugin, mixer, master, DAC/output, amplifier, or transducer. A clean DAW master meter does not prove the analog input or output stages are clean.

@@ -1,5 +1,7 @@
 # Chapter 243 — System-Level Debugging
 
+![Chapter 243](../../images/chapters/243.png)
+
 > **Status:** reviewed educational model. Hardware behavior is not probed.
 
 Use **Symptom → Observe → Trace → Isolate → Root cause → Fix → Verify**. No sound: locate a disconnected output. MIDI/no audio: add/enable instrument and audio route. Audio/no recording: distinguish monitor from armed input. High latency: isolate buffers/plugins/path. Distortion: locate the first clipped stage. Glitches: compare processing time with deadline. Wrong device: inspect destination. Rate problem: make configured components agree.

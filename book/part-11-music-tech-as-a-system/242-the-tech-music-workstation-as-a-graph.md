@@ -1,5 +1,7 @@
 # Chapter 242 — The Tech-Music Workstation as a Graph
 
+![Chapter 242](../../images/chapters/242.png)
+
 > **Status:** reviewed educational model. Hardware behavior is not probed.
 
 Model humans, controllers, microphones, interfaces, OS services, synths, DAW tracks/plugins/buses, output devices, and files as nodes. Typed edges distinguish audio, MIDI/event, control, and device communication. Graph validation can find unknown endpoints, absent event/audio routes, or no audio edge reaching an output.

@@ -1,5 +1,7 @@
 # Chapter 220 — Linux Audio: JACK
 
+![Chapter 220](../../images/chapters/220.png)
+
 > **Status:** reviewed educational model. Hardware behavior is not probed.
 
 JACK is designed around low-latency, synchronous processing and explicit connections among client ports. Its routing is a graph: clients/ports are nodes and connections carry audio or MIDI data. A process callback must finish its work within the server's cycle.

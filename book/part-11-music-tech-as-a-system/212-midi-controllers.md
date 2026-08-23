@@ -1,5 +1,7 @@
 # Chapter 212 — MIDI Controllers
 
+![Chapter 212](../../images/chapters/212.png)
+
 > **Status:** reviewed educational model. Hardware behavior is not probed.
 
 A keyboard, pad, knob, slider, or pedal turns a gesture into structured event/control data. That data normally describes actions rather than carrying the resulting audio.

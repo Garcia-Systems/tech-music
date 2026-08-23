@@ -1,5 +1,7 @@
 # Chapter 258 — Music as Data for Machine Learning
 
+![Chapter 258](../../images/chapters/258.png)
+
 ## Model
 
 Audio waveforms preserve sample detail; spectrograms expose time-frequency energy; MIDI/events preserve symbolic actions; piano rolls discretize pitch and time; chord labels and metadata add annotations; embeddings are learned vectors. Each representation discards and emphasizes different information, so task and provenance should drive selection.

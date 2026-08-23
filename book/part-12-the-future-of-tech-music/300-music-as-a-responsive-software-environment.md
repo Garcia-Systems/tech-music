@@ -1,5 +1,7 @@
 # Chapter 300 — Music as a Responsive Software Environment
 
+![Chapter 300](../../images/chapters/300.png)
+
 ## Model
 
 A responsive score is not merely a file: it maintains state, consumes events, applies rules/models, schedules sound, observes outcomes, and accepts preference feedback. Applications can include installations, games, accessibility tools, instruments, and personal listening—each with different consent and deadline requirements.

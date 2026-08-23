@@ -1,5 +1,7 @@
 # Chapter 205 — Audio Interfaces
 
+![Chapter 205](../../images/chapters/205.png)
+
 > **Status:** reviewed educational model. Hardware behavior is not probed.
 
 An audio interface bridges analog connections and computer audio. Depending on design it may provide microphone preamps, instrument/line inputs, ADC, DAC, monitor and headphone outputs, direct monitoring, and sometimes MIDI I/O. Exact internal routing varies.

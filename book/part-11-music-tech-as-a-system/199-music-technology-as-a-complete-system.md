@@ -1,5 +1,7 @@
 # Chapter 199 — Music Technology as a Complete System
 
+![Chapter 199](../../images/chapters/199.png)
+
 > **Status:** reviewed educational model. Hardware behavior is not probed.
 
 A workstation is a **system of systems**. A performer supplies intent; a device turns it into an event or electrical signal; conversion and transport cross into a computer; software sequences, synthesizes, processes, and mixes; conversion and an output transducer return energy to air and a listener. No single meter observes the whole chain.

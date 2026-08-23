@@ -1,5 +1,7 @@
 # Chapter 262 — Sequence Models
 
+![Chapter 262](../../images/chapters/262.png)
+
 ## Model
 
 Music unfolds in order. N-grams and Markov chains use bounded history; recurrent networks carry learned state; transformers use attention over a context. Shuffling tokens destroys timing and causality. Architecture choice changes accessible context and compute; none implies human-like musical understanding.

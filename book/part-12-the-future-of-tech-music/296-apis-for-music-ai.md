@@ -1,5 +1,7 @@
 # Chapter 296 — APIs for Music AI
 
+![Chapter 296](../../images/chapters/296.png)
+
 ## Model
 
 An API client sends authenticated requests, handles timeout/retry/cancellation, validates a versioned response, and converts only safe data into events/audio. Budget latency and cost, record service/model versions, and design fallback behavior. This project deliberately requires no paid service or secret.

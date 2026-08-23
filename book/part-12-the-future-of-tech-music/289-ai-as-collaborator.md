@@ -1,5 +1,7 @@
 # Chapter 289 — AI as Collaborator
 
+![Chapter 289](../../images/chapters/289.png)
+
 ## Model
 
 A collaborator proposes rather than merely executes. Machine suggestions can add initiative and surprise, while the human selects, revises, rejects, or locks. Because the system has no guaranteed shared intention, interface feedback and control are more dependable engineering concepts than anthropomorphic claims.

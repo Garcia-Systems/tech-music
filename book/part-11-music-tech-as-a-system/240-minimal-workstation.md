@@ -1,5 +1,7 @@
 # Chapter 240 — Minimal Workstation
 
+![Chapter 240](../../images/chapters/240.png)
+
 > **Status:** reviewed educational model. Hardware behavior is not probed.
 
 A small in-the-box system can be computer + sequencer/DAW + software synthesizer + headphones. Musical data drives synthesis, DSP, mixing, and file export without a microphone, external controller, or separate interface (subject to the computer's available output).

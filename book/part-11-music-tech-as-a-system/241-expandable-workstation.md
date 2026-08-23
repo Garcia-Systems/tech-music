@@ -1,5 +1,7 @@
 # Chapter 241 — Expandable Workstation
 
+![Chapter 241](../../images/chapters/241.png)
+
 > **Status:** reviewed educational model. Hardware behavior is not probed.
 
 Expansion should follow capability: add a MIDI controller for physical gestures; an audio interface for required analog I/O and monitoring; a microphone for acoustic capture; monitors for loudspeaker listening; additional instruments for new sources.

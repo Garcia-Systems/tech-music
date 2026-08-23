@@ -1,5 +1,7 @@
 # Chapter 273 — Source Separation and Stems
 
+![Chapter 273](../../images/chapters/273.png)
+
 ## Model
 
 Source separation estimates components such as vocals, drums, bass, and “other” from a mixture. Estimates can contain bleed, missing detail, or artifacts because sources overlap and models depend on training objectives and data. A stem is an estimate unless isolated-source evidence demonstrates otherwise.

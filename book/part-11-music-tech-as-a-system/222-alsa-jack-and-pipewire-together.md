@@ -1,5 +1,7 @@
 # Chapter 222 — ALSA, JACK, and PipeWire Together
 
+![Chapter 222](../../images/chapters/222.png)
+
 > **Status:** reviewed educational model. Hardware behavior is not probed.
 
 These names do not denote three interchangeable boxes. ALSA commonly supplies kernel drivers and PCM/MIDI interfaces. JACK defines a low-latency client/server API and routing model. PipeWire supplies a general media graph and can host compatibility paths. Deployments overlap.

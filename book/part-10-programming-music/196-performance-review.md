@@ -1,5 +1,7 @@
 # Chapter 196 — Performance Review
 
+![Chapter 196](../../images/chapters/196.png)
+
 ## Build boundary
 
 The report measures wall-clock offline render time. Profile before optimizing, vary track/event counts, identify a hotspot, improve it, then repeat the same workload; do not infer real-time safety.

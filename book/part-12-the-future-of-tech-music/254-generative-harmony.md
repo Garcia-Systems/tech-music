@@ -1,5 +1,7 @@
 # Chapter 254 — Generative Harmony
 
+![Chapter 254](../../images/chapters/254.png)
+
 ## Model
 
 Harmony generation can select from a vocabulary and transition table, enforce a pitch collection, or favor a locally defined cadence. Those are design choices within a musical system—not universal laws. Expose vocabulary and transition data so other tonal, modal, rhythmic, or tuning practices can replace them.

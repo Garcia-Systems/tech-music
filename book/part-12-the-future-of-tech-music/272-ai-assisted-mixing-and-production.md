@@ -1,5 +1,7 @@
 # Chapter 272 — AI-Assisted Mixing and Production
 
+![Chapter 272](../../images/chapters/272.png)
+
 ## Model
 
 Meters can measure peak, loudness proxies, or spectral overlap; classifiers can categorize tracks; systems can suggest gain or processing. Measurement describes a signal under a method. Whether masking is desirable, balance is expressive, or a mix is finished remains an artistic decision, not an objective AI verdict.

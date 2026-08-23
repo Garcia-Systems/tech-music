@@ -1,5 +1,7 @@
 # Chapter 247 — Randomness in Music
 
+![Chapter 247](../../images/chapters/247.png)
+
 ## Model
 
 A pseudo-random generator expands finite state into a repeatable sequence. Uniform choice assigns equal weights; weighted choice does not. Seed before the decision stream—not inside each choice. Without a recorded seed, a rare out-of-range failure may disappear on rerun, destroying the evidence needed to debug it.

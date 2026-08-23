@@ -1,5 +1,7 @@
 # Chapter 301 — Building an Adaptive Tech-Music Engine
 
+![Chapter 301](../../images/chapters/301.png)
+
 ## Model
 
 The executable architecture is `AdaptiveConfig → mode rules → sections → NoteEvent → Session → MiniEngine → samples`. It supports five named presets, intersected tempo preferences, density/variation controls, minor/major/pentatonic constraints, safe patch identifiers, seed replay, JSON configuration, validation, and decision traces.

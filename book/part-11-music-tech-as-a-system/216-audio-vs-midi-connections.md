@@ -1,5 +1,7 @@
 # Chapter 216 — Audio vs MIDI Connections
 
+![Chapter 216](../../images/chapters/216.png)
+
 > **Status:** reviewed educational model. Hardware behavior is not probed.
 
 An audio connection carries a representation of sound; a MIDI connection carries musical/control information. An electric piano's audio output → interface → DAW records that instrument's sound. A MIDI keyboard → computer → Yoshimi sends performance instructions; Yoshimi generates the sound.

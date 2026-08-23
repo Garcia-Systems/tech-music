@@ -1,5 +1,7 @@
 # Chapter 288 — AI as Instrument
 
+![Chapter 288](../../images/chapters/288.png)
+
 ## Model
 
 Like an instrument, an AI system affords actions that a player learns, constrains, and performs. Unlike a guitar, a learned system may embed remote data, mutable service behavior, and opaque proposals. The analogy helps with practice and agency but fails if it hides provenance or system initiative.

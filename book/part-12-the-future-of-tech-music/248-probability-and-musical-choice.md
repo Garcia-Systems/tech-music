@@ -1,5 +1,7 @@
 # Chapter 248 — Probability and Musical Choice
 
+![Chapter 248](../../images/chapters/248.png)
+
 ## Model
 
 A distribution can encode “repeat .70, vary .20, rest .10.” Weights need not already sum to one if the implementation explicitly normalizes, but they must be finite, non-negative, and have a positive total. Count outcomes over many seeded trials to inspect implementation behavior; sampling noise means small runs need tolerances.
