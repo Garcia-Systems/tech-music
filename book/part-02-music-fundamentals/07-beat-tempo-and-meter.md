@@ -1,6 +1,6 @@
 # Chapter 7 — Beat, Tempo, and Meter
 
-![Chapter 7](../../images/chapters/7.png)
+![Chapter 7](../../images/chapters/7-v2.png)
 
 At 120 BPM, count four evenly spaced beats:
 
