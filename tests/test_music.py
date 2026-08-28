@@ -10,9 +10,13 @@ from tech_music.music import (MAJOR, MAJOR_TRIAD, NoteEvent, arrangement_svg,
                               seconds_per_beat, step_positions, transpose)
 
 
-def test_tempo_reference_points():
-    assert seconds_per_beat(60) == 1.0
-    assert seconds_per_beat(120) == 0.5
+@pytest.mark.parametrize("bpm, expected", [(60, 1.0), (90, 2 / 3),
+                                            (120, 0.5), (150, 0.4)])
+def test_tempo_reference_points(bpm, expected):
+    assert seconds_per_beat(bpm) == pytest.approx(expected)
+
+
+def test_click_positions_start_at_downbeat_and_follow_tempo():
     assert click_positions(120, 4) == [0.0, 0.5, 1.0, 1.5]
 
 
