@@ -1,0 +1,14 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Chapter 7: music module at 120 BPM",
+      "type": "debugpy",
+      "request": "launch",
+      "module": "tech_music.music",
+      "args": ["--bpm", "120"],
+      "console": "integratedTerminal",
+      "justMyCode": true
+    }
+  ]
+}
